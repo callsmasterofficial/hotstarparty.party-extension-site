@@ -4,7 +4,7 @@ export default function PlusIcon() {
   return (
     <svg
       stroke="currentColor"
-      fill="#000"
+      fill="#303030"
       strokeWidth="0"
       viewBox="0 0 1024 1024"
       height="24px"

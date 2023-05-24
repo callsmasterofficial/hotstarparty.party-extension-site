@@ -1,14 +1,15 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next dev -p 8051",
+    "dev": "next dev -p 8063",
     "build": "next build",
-    "start": "next start -p 8051",
+    "start": "next start -p 8063",
     "lint": "next lint",
     "formate": "prettier --write .",
     "prepare": "husky install"
   },
   "dependencies": {
+    "dompurify": "^2.4.3",
     "mongoose": "^6.8.3",
     "next": "13.1.1",
     "react": "18.2.0",
@@ -21,7 +22,7 @@
     "@types/node": "17.0.4",
     "@types/react": "17.0.38",
     "autoprefixer": "^10.4.0",
-    "eslint": "^8.31.0",
+    "eslint": "8.31.0",
     "eslint-config-next": "13.1.1",
     "husky": "^8.0.0",
     "lint-staged": "^13.1.0",

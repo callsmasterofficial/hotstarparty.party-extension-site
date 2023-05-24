@@ -10,20 +10,18 @@ function Textques() {
     setShow(item.id)
   }
   return (
-    <>
-      <div className="accordion" id="accordionExample">
-        {siteConfig.section.three.accordian.map((item) => (
-          <div className="accordion-item" key={item.id}>
-            <CustomAccordion
-              item={item}
-              show={show}
-              toggleFunc={toggleFunc}
-              key={item.id}
-            />
-          </div>
-        ))}
-      </div>
-    </>
+    <div className="accordion" id="accordionExample">
+      {siteConfig.section.three.accordian.map((item) => (
+        <div className="accordion-item" key={item.id}>
+          <CustomAccordion
+            item={item}
+            show={show}
+            toggleFunc={toggleFunc}
+            key={item.id}
+          />
+        </div>
+      ))}
+    </div>
   )
 }
 

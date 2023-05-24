@@ -20,6 +20,12 @@ export async function getStaticProps() {
       .populate('cat', 'name slug')
       .exec()
     const data = JSON.parse(JSON.stringify(blogsRaw))
+    // return {
+    //   props: {
+    //     data,
+    //   },
+    //   revalidate: 86400,
+    // };
     return {
       props: {
         meta: {
@@ -31,9 +37,9 @@ export async function getStaticProps() {
         },
         data,
       },
-      revalidate: 7200,
     }
   } catch (err) {
+    console.error(err)
     return {
       props: {
         err,
@@ -42,7 +48,7 @@ export async function getStaticProps() {
   }
 }
 
-function blog({ data }) {
+function blog({data}) {
   return (
     <div className="blogpage">
       <Navbar />
