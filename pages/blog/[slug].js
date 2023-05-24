@@ -13,45 +13,49 @@ const site = siteConfig.siteId
 export async function getStaticPaths() {
   return {
     paths: [],
-    fallback: true, // false or 'blocking'
-  }
+    fallback: true // false or 'blocking'
+  };
 }
 
-export async function getStaticProps({ params: { slug } }) {
+export async function getStaticProps({params:{slug}}){
   try {
-    db()
-    const blog = await Blog.findOne({ site, slug }).populate('cat')
-    const data = JSON.parse(JSON.stringify(blog))
+    db();
+    const blog = await Blog.findOne({site, slug }).populate('cat')
+    const data = JSON.parse(JSON.stringify(blog));
     return {
-      props: {
-        meta: {
-          title: data.title,
-          description: data.meta_description,
-          keywords: data.meta_keywords,
-          pageUrl: `https://www.hotstarparty.party${siteConfig.blogUrl}/${slug}`,
-          featuredImage: data.featured_image,
+      props:{
+        meta:{
+          title:data.title,
+          description:data.meta_description,
+          keywords:data.meta_keywords,
+          pageUrl:`https://www.hotstarparty.party${siteConfig.blogUrl}/${slug}`,
+          featuredImage:data.featured_image
         },
-        data,
+        data
       },
       revalidate: 7200,
     }
   } catch (err) {
+    // console.log(err)
     return {
       redirect: {
-        destination: '/all-stores',
+        destination: "/all-stores",
         permanent: false,
       },
     }
+    
   }
+  
 }
 
-function blog({ data }) {
+function blog({data}) {
+
   return (
-    <div className="blogmore">
-      <Navbar />
-      <Banner />
-      {data && <Blogmore data={data} />}
-      <Footer />
+    <div className='blogmore'>
+      <Navbar/>
+      <Banner/>
+      {data && <Blogmore data={data}/>}
+      <Footer/>
     </div>
   )
 }
