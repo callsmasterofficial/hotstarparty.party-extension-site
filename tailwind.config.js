@@ -7,12 +7,7 @@ module.exports = {
   theme: {
     extend: {},
   },
-  variants:{
+  variants: {
     extend: {},
   },
-  plugins: [
-    require('tw-elements/dist/plugin')
-  ]
 }
-
-

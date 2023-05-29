@@ -1,9 +1,9 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next dev -p 8063",
+    "dev": "next dev -p 8051",
     "build": "next build",
-    "start": "next start -p 8063",
+    "start": "next start -p 8051",
     "lint": "next lint",
     "formate": "prettier --write .",
     "prepare": "husky install"
@@ -15,8 +15,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.41.5",
-    "react-toastify": "^9.1.1",
-    "tw-elements": "^1.0.0-alpha12"
+    "react-toastify": "^9.1.1"
   },
   "devDependencies": {
     "@types/node": "17.0.4",
