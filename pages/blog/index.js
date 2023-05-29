@@ -48,7 +48,7 @@ export async function getStaticProps() {
   }
 }
 
-function blog({data}) {
+function blog({ data }) {
   return (
     <div className="blogpage">
       <Navbar />

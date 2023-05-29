@@ -4,8 +4,6 @@ import InstallButton from './InstallButton'
 import siteConfig from '../siteConfig'
 
 function Footer() {
- 
-
   return (
     <div className="footer-container mt-[20%] w-screen md:mt-[10%]">
       <div className="footer-box -mt-14 border-t-2 border-white"></div>
@@ -22,18 +20,15 @@ function Footer() {
       </div>
 
       <div className="btn-box m-10 flex w-auto items-center justify-center border-b-2 border-white">
-        <div className="install_btn -mt-6 mr-10 mb-5 items-center justify-center md:mt-0">
+        <div className="install_btn -mt-6 mb-5 mr-10 items-center justify-center md:mt-0">
           <InstallButton />
         </div>
 
-        <button className="mb-5 -mt-6 flex w-auto items-center justify-center rounded-[4px] bg-white p-2 text-xl md:mt-0  hover:bg-blue-400 transition-all duration-200 ">
+        <button className="-mt-6 mb-5 flex w-auto items-center justify-center rounded-[4px] bg-white p-2 text-xl transition-all  duration-200 hover:bg-blue-400 md:mt-0 ">
           <Link href={`${siteConfig.blogUrl}`}>
-          <span
-            className="px-2 text-base font-bold text-black hover:text-white  transition-all duration-100"
-         
-          >
-            Blog
-          </span>
+            <span className="px-2 text-base font-bold text-black transition-all  duration-100 hover:text-white">
+              Blog
+            </span>
           </Link>
         </button>
       </div>
@@ -45,13 +40,19 @@ function Footer() {
               src="https://img.icons8.com/ios-glyphs/344/ffffff/right3.png"
               alt="side_icon"
             />
-            <h4 className="mr-1 font-bold text-white text-sm md:text-lg">Popular Searches</h4>
+            <h4 className="mr-1 text-sm font-bold text-white md:text-lg">
+              Popular Searches
+            </h4>
             <span className="mr-1 text-white">:</span>
-            <p className="text-xs md:text-base text-white">
+            <p className="text-xs text-white md:text-base">
               {siteConfig.footer.tags.map((item, index) => {
                 if (index == 0 || index == 1) {
                   return (
-                    <a href={siteConfig.url} className="pr-2" key={`tags-${index}`}>
+                    <a
+                      href={siteConfig.url}
+                      className="pr-2"
+                      key={`tags-${index}`}
+                    >
                       {item},
                     </a>
                   )
