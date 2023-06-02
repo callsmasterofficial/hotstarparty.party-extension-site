@@ -9,7 +9,8 @@ function Banner() {
       </h1>
 
       <h5 className="primary_text_color md:primary_text_color ml-4 text-lg md:ml-1.5 md:font-semibold ">
-        is now available on Google Chrome, Microsoft Edge and Mozilla Firefox
+        is now hotstart hotstar available on Google Chrome, Microsoft Edge and
+        Mozilla Firefox
       </h5>
     </div>
   )
