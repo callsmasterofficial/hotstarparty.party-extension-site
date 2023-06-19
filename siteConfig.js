@@ -1,6 +1,6 @@
 export default {
   siteName: 'Hotstar Party',
-  url: 'https://www.hotstarparty.party',
+  url: 'https://www.hotstarparty.party/',
   blogUrl: '/blog',
   siteId: '63318bbc92c68b0d2f1e412b',
   extLink: {
