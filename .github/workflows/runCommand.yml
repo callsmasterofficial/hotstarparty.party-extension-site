@@ -17,6 +17,6 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
             cd /var/www/multiSite/hotstarparty.party
-            sudo npm ci
+            sudo npm i
             sudo npm run build
             sudo pm2 restart 55
