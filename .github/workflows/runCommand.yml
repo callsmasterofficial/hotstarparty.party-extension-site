@@ -16,7 +16,7 @@ jobs:
           username: ${{ secrets.REMOTE_USER }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            /var/www/multiSite/hotstarparty.party
+            cd /var/www/multiSite/hotstarparty.party
             sudo npm ci
             sudo npm run build
             sudo pm2 restart 55
