@@ -37,6 +37,7 @@ export async function getStaticProps() {
         },
         data,
       },
+      revalidate: 86400,
     }
   } catch (err) {
     console.error(err)

@@ -29,7 +29,7 @@ function Blogmore({ data }) {
           />
         </div>
         {/* ))} */}
-        <div>
+        <div className="text-white">
           <span>Tags: - </span>{' '}
           {data.tags?.map((item, index) => (
             <span key={`tag-${index}-${item}`}>{item}, </span>
