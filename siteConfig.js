@@ -16,7 +16,7 @@ export default {
       heading: 'THROW THE MOST OUTLANDISH VIRTUAL RENDEZVOUS VIA HOTSTAR PARTY',
       html: `
       Host a party, Join it, Eat your favorite snacks, Create memorie, and Repeat.  
-      Hotstar Party - The best place to hang out your clan virtually.      
+      <a href="/">Hotstar Party</a> - The best place to hang out your clan virtually.      
       `,
       video:
         'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4',
