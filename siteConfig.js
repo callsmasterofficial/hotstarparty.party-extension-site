@@ -1,4 +1,4 @@
-export default {
+const config = {
   siteName: 'Hotstar Party',
   url: 'https://www.hotstarparty.party/',
   blogUrl: '/blog',
@@ -15,8 +15,8 @@ export default {
     first: {
       heading: 'THROW THE MOST OUTLANDISH VIRTUAL RENDEZVOUS VIA HOTSTAR PARTY',
       html: `
-      Host a party, Join it, Eat your favorite snacks, Create memorie, and Repeat.  
-      <a href="/">Hotstar Party</a> - The best place to hang out your clan virtually.      
+      <a href="/"><b><u>Hotstar Party</u></b></a> is a captivating feature on the Disney Plus platform that allows users to watch their favorite shows, movies, series, and animated videos with friends, irrespective of their distant location. Users must download the Hotstar Party Chrome extension on their compatible devices to access this exciting feature. It includes Windows, macOS, or Chromebook, using a compatible web browser. Plus, a compatible web browser such as Google Chrome or Microsoft Edge. With Hotstar Party, users can create and join watch parties. And even invite their friends & family to share in the entertainment experience.<br/><br/>
+      Moreover, the Hotstar Party feature offers group chat functionality, enabling real-time interactions with emojis and messages while streaming content. Additionally, Hotstar Party offers global accessibility, HD streaming, profile customization, and control over watch parties. It allows users to enhance their streaming adventures and create lasting memories with loved ones.     
       `,
       video:
         'https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4',
@@ -169,3 +169,4 @@ export default {
       'Hotstar is a trademark of Star India, Disney Media, and Entertainment. This website & extension hold no association or affiliation with Hotstar or any third-party companies.',
   },
 }
+export default config
