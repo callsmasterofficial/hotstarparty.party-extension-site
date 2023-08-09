@@ -13,7 +13,7 @@ function Text() {
     <div className="main-container m-auto w-screen ">
       {/* first text container  */}
       <div className="text-container m-auto  -mt-5 mb-10 ml-0  flex h-16  w-[80%] items-center justify-center  md:mt-5 md:w-[100%]">
-        <h2 className="primary_text_color  w-[100%]  text-center text-2xl font-semibold md:text-[32px]">
+        <h2 className="primary_text_color  w-[80%]  text-center text-2xl font-semibold md:text-[32px]">
           {` ${siteConfig.section.first.heading}`}
         </h2>
       </div>
