@@ -1,0 +1,118 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Ongezea", "free": "Ni Bure" },
+    "navBarHeading": "sasa inapatikana kwenye Google Chrome, Microsoft Edge na Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "TUPA RENDEZVOUS YA NJE ZAIDI KUPITIA HOTSTAR PARTY",
+      "html": "Hotstar Party ni kipengele cha kuvutia kwenye jukwaa la Disney Plus ambacho huwaruhusu watumiaji kutazama vipindi, filamu, misururu na video za uhuishaji wanazopenda na marafiki, bila kujali mahali walipo mbali. Watumiaji lazima wapakue kiendelezi cha Hotstar Party Chrome kwenye vifaa vyao vinavyooana ili kufikia kipengele hiki cha kusisimua. Inajumuisha Windows, macOS, au Chromebook, kwa kutumia kivinjari kinachoendana. Pia, kivinjari cha wavuti kinachotumika kama vile Google Chrome au Microsoft Edge. Kwa <a href=\"/\"><b><u>Hotstar Party</u></b></a>, watumiaji wanaweza kuunda na kujiunga na vyama vya kutazama. Na hata waalike marafiki zao",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "JINSI YA KUWASHIRIKISHA HOTSTAR PARTY?",
+      "subHeading": "Je, wewe ni shabiki wa Hotstar ambaye unapenda kutazama sana vipindi na filamu za Hotstar? Kisha Hotstar Party ni muhimu kwako bila gharama yoyote. Kwa hivyo, unaweza kutazama bila mshono katika kusawazisha na rafiki yako yeyote duniani kote. Ni rahisi kuandaa karamu ya saa ikiwa utafuata hatua hizi rahisi.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Jinsi ya Kupakua na Kusakinisha Kiendelezi cha Chama cha Hotstar?",
+          "answer": "Inachukua dakika chache tu, na mchakato ni rahisi kupakua kiendelezi cha Hotstar Party. Fuata tu maagizo haya kwa usahihi.",
+          "p1": "Tafuta kiendelezi cha Hotstar Party hapo kwa kwenda kwenye Duka rasmi la Chrome kwenye Wavuti. Unaweza pia kubofya hapa ili kupakua kiendelezi.",
+          "p2": "Kumbuka: Unaweza pia kutumia kivinjari cha Microsoft Edge kupakua kiendelezi. Zaidi ya hayo, Kiendelezi cha Hotstar Party kinaoana na vifaa vya Windows, macOS, na Chromebook.",
+          "p3": "Bofya kitufe cha \"ONGEZA KWA CHROME\" baada ya hapo.",
+          "p4": "Dirisha ibukizi fupi sasa litaonekana na kukuomba uthibitishe uamuzi wako wa kusakinisha kiendelezi. Kwa hiyo, ili uendelee, lazima ubofye kitufe cha \"ADD EXTENSION\".",
+          "p5": "Zaidi ya hayo, kiendelezi kinahitaji kubandikwa kwenye upau wa vidhibiti. Ikiwa ikoni ya kiendelezi haionekani hapo, unaweza pia kuigundua kwa kubofya ikoni ya chemshabongo kwenye kona ya juu kulia ya kivinjari chako. Hatua rahisi za kusakinisha kiendelezi cha Hotstar Watch Party zilikuwa hizi. Kwa hivyo, ukizifuata kwa uangalifu, utaweza kupakua kiendelezi na kusawazisha tafrija zako za saa na watu wengine wote kwenye sayari. Bado unahitaji kuelewa jinsi ya kutumia kiendelezi, pia. Ili kujifunza jinsi ya kutumia kiendelezi hiki, endelea."
+        },
+        {
+          "id": "2",
+          "question": "Jinsi ya Kuweka Sherehe ya Kutazama ya Hotstar kwa kutumia kiendelezi?",
+          "answer": "Kwa kuwa sasa umeongeza kiendelezi kwenye kifaa chako, hebu tuendelee mchakato zaidi. Kuwa mwenyeji bora wa sherehe za mtandaoni kwa kufuata maagizo yaliyoorodheshwa hapa chini. Kwa hivyo, weka kinywaji chako na popcorn tayari.",
+          "p1": "Kusakinisha na kubandika kiendelezi cha chama cha Hotstar ni hatua ya kwanza.",
+          "p2": "Zaidi ya hayo, lazima ufikie jukwaa la utiririshaji la Hotstar na uingie ukitumia akaunti yako uliyojisajili. Hakikisha kuwa umeingia kwenye akaunti yako mwenyewe.",
+          "p3": "Pata video kwenye Hotstar ambayo ungependa kutazama kwenye tafrija yako ya kutazama sasa. Pia, unaweza kutafuta video kabla ya kuicheza.",
+          "p4": "Baada ya hapo, bofya ikoni ya kiendelezi ambayo tayari umeibandika. Hapa, dirisha litatokea likisema \"ANZA PARTY\" na kitufe cha \"UNDA PARTY YA KUTAZAMA.\" Ili kuunda kiungo cha mwaliko, lazima ubofye kitufe hicho.",
+          "p5": "Kilichosalia kufanya ni kuwaalika marafiki zako kwa tafrija ya maisha yote kwa kushiriki URL ya chama cha kutazama nao. Kwa hivyo, shiriki kiungo cha mwaliko wa sherehe na wapendwa wako.",
+          "p6": "Hatimaye, gusa URL ya mwaliko ili kujiunga na wazimu."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Sifa Mbali Mbali kwenye Hotstar Party",
+      "subHeading": "Hotstar Party Extension ina vipengele vingi bora vinavyoifanya kuwa kiendelezi cha ajabu cha kutumia. Zifuatazo ni sifa zote zilizoorodheshwa ambazo zinaweza kukufanya kuharakisha kupakua kiendelezi papo hapo.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Inapatikana Ulimwenguni Pote",
+          "answer": "Kiendelezi cha Hotstar Watch Party kinapatikana duniani kote kwa kila mtu kutumia. Ipasavyo, unaweza kuitumia mahali popote kwenye sayari. Hata hivyo, hakikisha kuwa huduma ya utiririshaji ya Hotstar inapatikana katika eneo na nchi yako. Kwa njia hii, unaweza kuajiri VPN thabiti kubadilisha eneo lako na kuwasha Hotstar katika hali kama hizi. Na kisha, utaweza kuungana na marafiki na familia yako katika usiku wa filamu pepe."
+        },
+        {
+          "id": "t2",
+          "question": "Chat ya Moja kwa Moja",
+          "answer": "Wenzako wa chama cha saa wanaweza kushiriki tabasamu na miitikio ya pande zote mbili kwenye tukio linaloendelea. Kwa hivyo, kipengele hiki cha ajabu cha saa ya kikundi hukuwezesha kudumisha mazungumzo kati ya wageni wa karamu. Zaidi ya hayo, ukweli kwamba mmeketi karibu na mtu mwingine katika eneo moja hutoa faraja. Zaidi ya hayo, unaweza kujibu wageni wa karamu kwa kuwatumia vikaragosi."
+        },
+        {
+          "id": "t3",
+          "question": "Geuza Sherehe Yako ya Kutazama kukufaa",
+          "answer": "Mojawapo ya sehemu za kipekee za Hotstar Party ni kwamba hukuruhusu kubinafsisha wasifu wako. Kuanzia wakati huu kwenda mbele, unaweza kuweka moniker za kipekee na zilizobinafsishwa kwenye wasifu wako. Vivyo hivyo, unaweza kuchagua na kuhifadhi ishara yoyote ya kupendeza au ya kupendeza au picha ya wasifu. Ipasavyo, unaweza kufanya upya wasifu wako kama unavyopenda."
+        },
+        {
+          "id": "t4",
+          "question": "Udhibiti wa The Watch Party",
+          "answer": "Katika kiendelezi cha Hotstar Party, una udhibiti fulani juu ya sherehe yako ya saa na uendelee na ulinzi wake. Zaidi ya hayo, kama mpangaji, unaweza kupokea kibali cha jumla kwa karamu ya kutazama kwa kuwasha kitufe cha \"NINA UDHIBITI\". Kwa njia hii, utapata kuongeza na kuondoa watu binafsi. Zaidi ya hayo, unacheza, kuacha, kurudisha nyuma na kusambaza maudhui ya utiririshaji."
+        },
+        {
+          "id": "t5",
+          "question": "Usawazishaji na Utiririshaji wa Azimio la Juu",
+          "answer": "Hotstar Watch Party Extension ni kiendelezi kinachoendelea ambacho huboresha matumizi yako ya utiririshaji. Kando na hilo, inajitahidi kutoa uzoefu bora zaidi wa kutazama marathoni iwezekanavyo. Kwa njia hii, hutoa malengo ya utiririshaji ya ubora wa juu. Zaidi ya hayo, unaweza kufurahia maudhui na wapendwa wako kwa kuyatiririsha kwa kusawazisha."
+        },
+        {
+          "id": "t6",
+          "question": "Bure Kutumia",
+          "answer": "Hotstar Party ni kiendelezi kisicholipishwa cha kufikia na kutumia ili uweze kuwa na vipengele na burudani zote hizo. Kuanzia hatua hii kuendelea, unaweza kupata pumbao hili bila malipo."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "SIFA ZA KIPEKEE",
+    "uniquefeaturebelow": "Kiendelezi cha sherehe ya Hotstar kimeratibiwa mahususi kwa mashabiki wote wa Hotstar. Iwe ni maonyesho, filamu, au hata michezo ya moja kwa moja, utaweza kufurahia tafrija ya kutazama bila mshono. Zaidi ya hayo, ina vipengele vyema vya kuboresha matumizi yako na kukufanya upate urahisi. Hebu tuingie katika vipengele.",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Je! Kiendelezi cha Chama cha Hotstar kinatimiza madhumuni gani?",
+        "answer": "Wateja wote wa Hotstar wanaweza kutumia kiendelezi, zana isiyolipishwa, kutazama kipindi chochote, filamu au video zinazosawazishwa na wale wanaoishi kwingine. Wanaweza pia kutuma SMS na kutuma emoji huku wakitazama vipindi wapendavyo pamoja. Kiendelezi kinaweza kusakinishwa popote duniani na, bora zaidi, ni bure kabisa."
+      },
+      {
+        "id": "f2",
+        "question": "Ninawezaje kupakua na kusakinisha kiendelezi cha Hotstar Party?",
+        "answer": "Kwa usaidizi wa kusakinisha kiendelezi, tafadhali bofya hapa. Lazima uchague kitufe cha bluu \"Ongeza kwenye Chrome\" kwenye ukurasa rasmi wa usakinishaji wa kiendelezi baada ya kubofya kiungo hiki. Zaidi ya hayo, utaombwa kutoa ruhusa kabla ya kiendelezi kuongezwa kwenye kivinjari chako. Ili kufanya hivyo, bofya kitufe cha \"Ongeza Ugani\". Kiendelezi sasa kitawekwa kwenye kompyuta yako."
+      },
+      {
+        "id": "f3",
+        "question": "Je, ni wageni wangapi wanaoruhusiwa kwenye Tafrija ya Kutazama?",
+        "answer": "Kipindi kimoja cha Sherehe ya Kutazama kinaweza kuchukua hadi washiriki 100. Kwa upande mwingine, kila mshiriki anahitaji uanachama wake wa Hotstar ili kushiriki katika tafrija ya kutazama mtandaoni."
+      },
+      {
+        "id": "f4",
+        "question": "Je, ninashiriki vipi katika tafrija ya kutazama?",
+        "answer": "Unaweza kujiunga na chama cha kutazama ukitumia kiungo ambacho rafiki yako au mpangaji wa sehemu alishiriki nawe. Kwa kuongeza, ikiwa bado hujafanya hivyo, lazima upakue kiendelezi cha chama cha kutazama baada ya kubofya kiungo."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Ipate, Ni Bure!",
+    "anyQuestions": "Niko tayari, Nipe Hotstar Party",
+    "blog": "Blogu",
+    "popularSearches": "Utafutaji Maarufu",
+    "disclaimer": "Kanusho",
+    "disclaimerContent": "Hotstar ni chapa ya biashara ya Star India, Disney Media, na Entertainment. Tovuti hii",
+    "footerTags": [
+      "Party ya Hotstar",
+      "Hotstar Watch Party",
+      "Hotstar Party Chrome Kiendelezi",
+      "Kiendelezi cha Sherehe ya Kutazama ya Hotstar"
+    ]
+  }
+}

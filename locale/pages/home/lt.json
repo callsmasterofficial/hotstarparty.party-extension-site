@@ -1,0 +1,118 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Pridėti prie", "free": "Nemokama" },
+    "navBarHeading": "dabar galima „Google Chrome“, „Microsoft Edge“ ir „Mozilla Firefox“."
+  },
+  "section": {
+    "first": {
+      "heading": "SURENKITE PAŠALINGIAUSIĄ VIRTUALĄ RENDEZVOUS VIA HOTSTAR PARTY",
+      "html": "„Hotstar Party“ yra patraukli „Disney Plus“ platformos funkcija, leidžianti vartotojams žiūrėti mėgstamas laidas, filmus, serialus ir animuotus vaizdo įrašus su draugais, neatsižvelgiant į jų tolimą vietą. Naudotojai turi atsisiųsti „Hotstar Party Chrome“ plėtinį savo suderinamuose įrenginiuose, kad galėtų pasiekti šią įdomią funkciją. Tai apima „Windows“, „MacOS“ arba „Chromebook“, naudojant suderinamą žiniatinklio naršyklę. Be to, suderinama žiniatinklio naršyklė, pvz., „Google Chrome“ arba „Microsoft Edge“. Naudodami <a href=\"/\"><b><u>Hotstar Party</u></b></a> naudotojai gali kurti ir prisijungti prie žiūrėjimo vakarėlių. Ir netgi pakvieskite savo draugus",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "KAIP SUVEIKTI HOTSTAR PARTY?",
+      "subHeading": "Ar esate „Hotstar“ fanatikas, mėgstantis žiūrėti „Hotstar“ laidas ir filmus? Tuomet „Hotstar“ vakarėlis jums yra gyvybiškai svarbus ir nieko nekainuoja. Todėl galite žiūrėti sklandžiai sinchronizuodami su bet kuriuo iš savo draugų visame pasaulyje. Stebėjimo vakarėlį surengti nesunku, jei atliksite šiuos paprastus veiksmus.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Kaip atsisiųsti ir įdiegti „Hotstar Party“ plėtinį?",
+          "answer": "Tai užtrunka vos kelias minutes, o „Hotstar Party“ plėtinio atsisiuntimas yra nesudėtingas. Tiesiog tiksliai vykdykite šias instrukcijas.",
+          "p1": "Ten ieškokite „Hotstar Party“ plėtinio apsilankę oficialioje „Chrome“ internetinėje parduotuvėje. Taip pat galite spustelėti čia, kad atsisiųstumėte plėtinį.",
+          "p2": "Pastaba: Norėdami atsisiųsti plėtinį, taip pat galite naudoti „Microsoft Edge“ naršyklę. Be to, „Hotstar Party Extension“ suderinamas su „Windows“, „MacOS“ ir „Chromebook“ įrenginiais.",
+          "p3": "Po to spustelėkite mygtuką „PRIDĖTI PRIE CHROME“.",
+          "p4": "Dabar pasirodys trumpas iššokantis langas, kuriame bus paprašyta patvirtinti savo sprendimą įdiegti plėtinį. Todėl norėdami tęsti, turite spustelėti mygtuką „PRIDĖTI PLĖTINĮ“.",
+          "p5": "Be to, plėtinį reikia prisegti prie įrankių juostos. Jei plėtinio piktogramos ten nematote, galite ją atrasti spustelėję galvosūkio piktogramą viršutiniame dešiniajame naršyklės kampe. Paprasti žingsniai įdiegti „Hotstar Watch Party“ plėtinį buvo šie. Taigi, jei atidžiai jų laikysitės, galėsite atsisiųsti plėtinį ir sinchronizuoti savo laikrodžių vakarėlius su visais kitais planetos žmonėmis. Vis tiek turite suprasti, kaip naudoti plėtinį. Norėdami sužinoti, kaip naudoti šį plėtinį, skaitykite toliau."
+        },
+        {
+          "id": "2",
+          "question": "Kaip pritvirtinti „Hotstar Watch Party“ naudojant plėtinį?",
+          "answer": "Dabar, kai prie įrenginio pridėjote plėtinį, tęskime procesą toliau. Būkite geriausias internetinių vakarėlių šeimininkas vadovaudamiesi toliau pateiktomis instrukcijomis. Taigi, paruoškite gėrimą ir spragėsius.",
+          "p1": "„Hotstar Party“ plėtinio įdiegimas ir prisegimas yra pirmasis žingsnis.",
+          "p2": "Be to, turite pasiekti „Hotstar“ srautinio perdavimo platformą ir prisijungti naudodami prenumeruojamą paskyrą. Įsitikinkite, kad esate prisijungę prie savo paskyros.",
+          "p3": "Raskite „Hotstar“ vaizdo įrašą, kurį dabar norite žiūrėti žiūrėjimo vakarėlyje. Be to, prieš paleisdami vaizdo įrašą galite jo ieškoti.",
+          "p4": "Po to spustelėkite jau prisegtą plėtinio piktogramą. Čia pasirodys langas, kuriame bus nurodyta „Pradėti vakarėlį“ ir mygtukas „SUKURTI ŽIŪRĖJIMO VARTĮ“. Norėdami sukurti kvietimo nuorodą, turite spustelėti tą mygtuką.",
+          "p5": "Belieka pakviesti savo draugus į visą gyvenimą trunkantį vakarėlį bendrinant su jais žiūrėjimo vakarėlio URL. Taigi, pasidalykite žiūrėti vakarėlio kvietimo nuoroda su savo artimaisiais.",
+          "p6": "Galiausiai bakstelėkite pakvietimo URL, kad prisijungtumėte prie beprotybės."
+        }
+      ]
+    },
+    "three": {
+      "heading": "„Hotstar Party“ išskirtinės funkcijos",
+      "subHeading": "„Hotstar Party Extension“ turi daugybę išskirtinių funkcijų, dėl kurių jis puikiai tinka naudoti. Toliau pateikiamos visos išvardytos charakteristikos, kurios priverstų jus skubėti atsisiųsti plėtinį.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Prieinama visame pasaulyje",
+          "answer": "„Hotstar Watch Party“ plėtiniu gali naudotis visi visame pasaulyje. Atitinkamai, galite jį naudoti bet kurioje planetos vietoje. Tačiau įsitikinkite, kad „Hotstar“ srautinio perdavimo paslauga yra jūsų regione ir šalyje. Tokiu būdu galite naudoti patikimą VPN, kad pakeistumėte savo sritį ir tokiais atvejais suaktyvintumėte „Hotstar“. Tada galėsite susisiekti su draugais ir šeima per virtualų filmų vakarą."
+        },
+        {
+          "id": "t2",
+          "question": "Gyvas pokalbis",
+          "answer": "Jūsų stebintys vakarėlio kompanionai gali dalytis bendromis šypsenomis ir reakcijomis vykstančioje scenoje. Todėl ši fantastiška grupinio laikrodžio savybė leidžia palaikyti pokalbį tarp vakarėlio svečių. Be to, tai, kad sėdite vienas šalia kito toje pačioje vietoje, suteikia jums komforto. Be to, vakarėlio svečiams galite atsakyti siųsdami jaustukus."
+        },
+        {
+          "id": "t3",
+          "question": "Tinkinkite savo žiūrėjimo vakarėlį",
+          "answer": "Viena išskirtiniausių „Hotstar Party“ dalių yra ta, kad ji leidžia jums suasmeninti savo profilį. Nuo to laiko savo profilyje galite laikyti savitus ir pritaikytus pravardžius. Taip pat galite pasirinkti ir išsaugoti bet kokį žavų ar šaunų simbolį ar profilio nuotrauką. Atitinkamai, galite perdaryti savo profilį taip, kaip norite."
+        },
+        {
+          "id": "t4",
+          "question": "Žiūrėjimo vakarėlio kontrolė",
+          "answer": "„Hotstar Party“ plėtinyje galite šiek tiek valdyti savo laikrodžio vakarėlį ir neatsilikti nuo jo apsaugos. Be to, kaip šeimininkas, galite priimti bendrą leidimą į žiūrėjimo vakarėlį, pasukę mygtuką „AŠ KONTROLIUOJU“ žaliai. Tokiu būdu galėsite pridėti ir pašalinti asmenis. Be to, leidžiate, sustabdote, atsukate atgal ir persiunčiate srautinį turinį."
+        },
+        {
+          "id": "t5",
+          "question": "Sinchronizavimas ir didelės raiškos transliacija",
+          "answer": "„Hotstar Watch Party Extension“ yra laipsniškas plėtinys, pagerinantis srautinio perdavimo patirtį. Be to, ji stengiasi suteikti geriausią įmanomą maratono stebėjimo patirtį. Tokiu būdu jis suteikia aukščiausios kokybės srautinio perdavimo tikslus. Be to, galite mėgautis turiniu su savo artimaisiais, siųsdami jį srautu sinchroniškai."
+        },
+        {
+          "id": "t6",
+          "question": "Nemokamai naudoti",
+          "answer": "„Hotstar Party“ yra nemokamas plėtinys, kurį galite pasiekti ir naudoti, kad galėtumėte naudotis visomis šiomis funkcijomis ir pramogomis. Nuo šio momento galite naudotis šia pramoga nemokamai."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "UNIKALIOS SAVYBĖS",
+    "uniquefeaturebelow": "„Hotstar“ vakarėlio plėtinys yra specialiai sukurtas visiems „Hotstar“ gerbėjams. Nesvarbu, ar tai būtų laidos, filmai ar net tiesioginis sportas, galėsite sklandžiai mėgautis žiūrėjimo vakarėliu. Be to, jame yra keletas nuostabių funkcijų, kurios pagerina jūsų patirtį ir leidžia jums lengviau. Pažvelkime į savybes.",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Kokiam tikslui skirtas „Hotstar Party Extension“?",
+        "answer": "Visi „Hotstar“ prenumeratoriai gali naudoti plėtinį, nemokamą įrankį, norėdami peržiūrėti bet kokią laidą, filmą ar vaizdo įrašą sinchroniškai su tais, kurie gyvena kitur. Jie taip pat gali siųsti žinutes ir jaustukus vieni kitiems, kartu žiūrėdami mėgstamas laidas. Plėtinys gali būti įdiegtas bet kurioje pasaulio vietoje ir, geriausia, yra visiškai nemokamas."
+      },
+      {
+        "id": "f2",
+        "question": "Kaip atsisiųsti ir įdiegti „Hotstar Party“ plėtinį?",
+        "answer": "Jei reikia pagalbos įdiegiant plėtinį, spustelėkite čia. Spustelėję šią nuorodą turite pasirinkti mėlyną mygtuką „Pridėti prie Chrome“ oficialiame plėtinio diegimo puslapyje. Be to, prieš įtraukiant plėtinį į naršyklę būsite paraginti duoti leidimą. Norėdami tai padaryti, spustelėkite mygtuką \"Pridėti plėtinį\". Plėtinys dabar bus nustatytas jūsų kompiuteryje."
+      },
+      {
+        "id": "f3",
+        "question": "Kiek svečių gali dalyvauti žiūrėjimo vakarėlyje?",
+        "answer": "Vienoje „Watch Party“ sesijoje gali dalyvauti iki 100 dalyvių. Kita vertus, kiekvienam vakarėlio dalyviui reikia savo „Hotstar“ narystės, kad galėtų dalyvauti virtualioje žiūrėjimo vakarėlyje."
+      },
+      {
+        "id": "f4",
+        "question": "Kaip dalyvauti laikrodžių vakarėlyje?",
+        "answer": "Galite prisijungti prie žiūrėjimo vakarėlio naudodami nuorodą, kurią su jumis bendrino jūsų draugas arba laikrodžio dalies vedėjas. Be to, jei dar to nepadarėte, spustelėję nuorodą turite atsisiųsti žiūrėjimo vakarėlio plėtinį."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Gaukite tai nemokamai!",
+    "anyQuestions": "Aš pasiruošęs, duok man „Hotstar Party“.",
+    "blog": "Dienoraštis",
+    "popularSearches": "Populiarios paieškos",
+    "disclaimer": "Atsisakymas",
+    "disclaimerContent": "„Hotstar“ yra „Star India“, „Disney Media“ ir „Entertainment“ prekės ženklas. Ši svetainė",
+    "footerTags": [
+      "„Hotstar Party Party“.",
+      "„Hotstar Watch Party“.",
+      "„Hotstar Party Chrome“ plėtinys",
+      "„Hotstar Watch Party“ pratęsimas"
+    ]
+  }
+}

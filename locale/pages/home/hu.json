@@ -1,0 +1,118 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Hozzáadás", "free": "Ingyen van" },
+    "navBarHeading": "már elérhető a Google Chrome, a Microsoft Edge és a Mozilla Firefox böngészőn"
+  },
+  "section": {
+    "first": {
+      "heading": "A LEGKÜLÖNLEGESebb VIRTUÁLIS RENDEZVOUST A HOTSTAR PARTYN keresztül",
+      "html": "A Hotstar Party egy lebilincselő funkció a Disney Plus platformon, amely lehetővé teszi a felhasználók számára, hogy kedvenc műsoraikat, filmeiket, sorozataikat és animációs videóikat barátaikkal nézzék meg, függetlenül attól, hogy hol vannak távol. A felhasználóknak le kell tölteniük a Hotstar Party Chrome-bővítményt kompatibilis eszközeikre az izgalmas funkció eléréséhez. Tartalmazza a Windows-t, a macOS-t vagy a Chromebookot, kompatibilis webböngésző használatával. Plusz egy kompatibilis webböngésző, például a Google Chrome vagy a Microsoft Edge. A <a href=\"/\"><b><u>Hotstar Party</u></b></a> segítségével a felhasználók partikat hozhatnak létre, és csatlakozhatnak hozzájuk. És még a barátaikat is meghívják",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "HOGYAN LEHET EGY HOTSTAR PARTY?",
+      "subHeading": "Ön egy Hotstar-fanatikus, aki szereti a Hotstar-műsorokat és -filmeket? Akkor a Hotstar Party létfontosságú az Ön számára, minden költség nélkül. Ezért zökkenőmentesen, szinkronban nézheti bármelyik barátjával a világ minden tájáról. Ha követi ezeket az egyszerű lépéseket, könnyű egy órapartit rendezni.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Hogyan lehet letölteni és telepíteni a Hotstar Party bővítményt?",
+          "answer": "Csak néhány percet vesz igénybe, és a folyamat egyszerű a Hotstar Party bővítmény letöltéséhez. Egyszerűen kövesse pontosan ezeket az utasításokat.",
+          "p1": "Keresse meg a Hotstar Party bővítményt a hivatalos Chrome Internetes áruházban. Ide kattintva letöltheti a bővítményt is.",
+          "p2": "Megjegyzés: A bővítmény letöltéséhez használhatja a Microsoft Edge böngészőt is. Ezenkívül a Hotstar Party Extension kompatibilis a Windows, a macOS és a Chromebook eszközökkel.",
+          "p3": "Ezután kattintson a „HOZZÁADÁS A CHROME-HOZ” gombra.",
+          "p4": "Ekkor megjelenik egy rövid előugró ablak, amelyben meg kell erősítenie a bővítmény telepítésére vonatkozó döntését. Ezért a folytatáshoz kattintson a \"BŐVÍTÉS HOZZÁADÁSA\" gombra.",
+          "p5": "Ezenkívül a bővítményt rögzíteni kell az eszköztárhoz. Ha a bővítmény ikonja nem látható ott, akkor a böngésző jobb felső sarkában található rejtvény ikonra kattintva is megtalálhatja. A Hotstar Watch Party bővítmény telepítésének egyszerű lépései ezek voltak. Tehát, ha figyelmesen követi őket, akkor letöltheti a bővítményt, és szinkronizálhatja az órapartikat a bolygón mindenki mással. Továbbra is meg kell értenie a bővítmény használatát. A bővítmény használatának megismeréséhez olvasson tovább."
+        },
+        {
+          "id": "2",
+          "question": "Hogyan rögzíthetünk egy Hotstar Watch Partyt a bővítmény használatával?",
+          "answer": "Most, hogy hozzáadta a bővítményt eszközéhez, folytassuk a folyamatot. Légy az online bulik legjobb házigazdája az alábbi utasítások követésével. Tehát készítse elő az italát és a pattogatott kukoricát.",
+          "p1": "A Hotstar party-bővítmény telepítése és rögzítése az első lépés.",
+          "p2": "Ezenkívül el kell érnie a Hotstar streaming platformot, és be kell jelentkeznie az előfizetett fiókjával. Győződjön meg arról, hogy be van jelentkezve a saját fiókjába.",
+          "p3": "Keressen egy videót a Hotstar-on, amelyet most meg szeretne nézni a partiján. Ezenkívül rákereshet a videóra a lejátszás előtt.",
+          "p4": "Ezután kattintson a már rögzített bővítmény ikonra. Itt megjelenik egy ablak, amely a következő szöveggel rendelkezik: \"INDÍTÁS PARTY\" és a \"NÉZÉSI PARTI LÉTREHOZÁSA\" gomb. Meghívó hivatkozás létrehozásához kattintson arra a gombra.",
+          "p5": "Nincs más hátra, mint meghívni a barátaidat egy életre szóló bulira, ha megosztod velük a megtekintési parti URL-címét. Így ossza meg szeretteivel a partimeghívó linkjét.",
+          "p6": "Végül érintse meg a meghívó URL-jét, hogy csatlakozzon az őrülethez."
+        }
+      ]
+    },
+    "three": {
+      "heading": "A Hotstar Party különleges szolgáltatásai",
+      "subHeading": "A Hotstar Party Extension számos kiemelkedő funkcióval rendelkezik, amelyek fenomenálisan használható bővítményré teszik. Az alábbiakban felsoroljuk azokat a felsorolt ​​jellemzőket, amelyek miatt sietnie kell a bővítmény azonnali letöltésével.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Világszerte elérhető",
+          "answer": "A Hotstar Watch Party kiterjesztése világszerte elérhető mindenki számára. Ennek megfelelően bárhol használhatod a bolygón. Győződjön meg azonban arról, hogy a Hotstar streaming szolgáltatás elérhető az Ön régiójában és országában. Ily módon robusztus VPN-t használhat a terület megváltoztatásához, és ilyen esetekben aktiválhat egy Hotstart. Ezután egy virtuális filmes este során kapcsolatba léphet barátaival és családjával."
+        },
+        {
+          "id": "t2",
+          "question": "Élő chat",
+          "answer": "A parti társai megoszthatják egymással mosolyaikat és reakcióit egy folyamatban lévő jeleneten. Ezért a csoportóra e fantasztikus funkciója lehetővé teszi, hogy beszélgetést tartson fenn a buli vendégei között. Ezenkívül az a tény, hogy Ön egymás mellett ül ugyanazon a területen, kényelmet biztosít. Ezenkívül hangulatjelek küldésével válaszolhat a parti vendégeknek."
+        },
+        {
+          "id": "t3",
+          "question": "Szabja személyre a Watch Party-t",
+          "answer": "A Hotstar Party egyik legkiválóbb része, hogy lehetővé teszi profilod személyre szabását. Ettől kezdve sajátos és személyre szabott beceneveket tarthat a profilján. Hasonlóképpen kiválaszthat és menthet bármilyen bájos vagy menő szimbólumot vagy profilképet. Ennek megfelelően újraszerkesztheti profilját, ahogy szeretné."
+        },
+        {
+          "id": "t4",
+          "question": "A Watch Party irányítása",
+          "answer": "A Hotstar Party bővítményben némi irányítást gyakorolhat az óraparti felett, és lépést tarthat annak védelmével. Továbbá, mint házigazda, az \"I HAVE CONTROL\" gomb zöldre forgatásával általános belépést biztosíthat a partira. Így hozzáadhat és törölhet egyéneket. Ezenkívül lejátszhatja, leállíthatja, visszatekerheti és továbbítja a streamelt tartalmat."
+        },
+        {
+          "id": "t5",
+          "question": "Szinkronizálás és nagy felbontású adatfolyam",
+          "answer": "A Hotstar Watch Party Extension egy progresszív bővítmény, amely javítja a streamelési élményt. Emellett arra törekszik, hogy a lehető legjobb maratoni élményt nyújtsa. Ily módon prémium minőségű streamelési célokat biztosít. Sőt, szinkronban streamelve élvezheti a tartalmat szeretteivel."
+        },
+        {
+          "id": "t6",
+          "question": "Ingyenesen használható",
+          "answer": "A Hotstar Party egy ingyenes bővítmény, amellyel hozzáférhet és használhatja, így az összes szolgáltatás és szórakozás a rendelkezésére áll. Innentől kezdve ingyenesen elérheti ezt a szórakozást."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "EGYEDI TULAJDONSÁGOK",
+    "uniquefeaturebelow": "A Hotstar party-bővítmény kifejezetten az összes Hotstar-rajongó számára készült. Legyen szó műsorokról, filmekről vagy akár élő sportágakról, zökkenőmentesen élvezheti a partit. Ezenkívül néhány csodálatos funkcióval is rendelkezik, amelyek fokozzák az élményt és megkönnyítik az Ön életét. Vágjunk bele a funkciókba.",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Milyen célt szolgál a Hotstar Party Extension?",
+        "answer": "Minden Hotstar-előfizető használhatja a bővítményt, egy ingyenes eszközt, hogy bármilyen műsort, filmet vagy videót megtekinthessen a máshol élőkkel szinkronban. SMS-t és hangulatjeleket is küldhetnek egymásnak, miközben együtt nézik kedvenc műsoraikat. A kiterjesztés a világon bárhol telepíthető, és ami a legjobb, teljesen ingyenes."
+      },
+      {
+        "id": "f2",
+        "question": "Hogyan tölthetem le és telepíthetem a Hotstar Party bővítményt?",
+        "answer": "Ha segítségre van szüksége a bővítmény telepítéséhez, kattintson ide. A linkre kattintás után ki kell választania a kék \"Hozzáadás a Chrome-hoz\" gombot a bővítmény hivatalos telepítési oldalán. Ezenkívül engedélyt kell kérnie ahhoz, hogy a bővítményt hozzá lehessen adni a böngészőhöz. Ehhez kattintson a \"Bővítmény hozzáadása\" gombra. A bővítmény most be lesz állítva a számítógépén."
+      },
+      {
+        "id": "f3",
+        "question": "Hány vendég tartózkodhat egy Watch Partyn?",
+        "answer": "Egy Watch Party ülésen akár 100 résztvevő is részt vehet. Másrészt minden parti résztvevőnek szüksége van saját Hotstar-tagságra, hogy részt vegyen a virtuális órapartin."
+      },
+      {
+        "id": "f4",
+        "question": "Hogyan vehetek részt egy órapartin?",
+        "answer": "Csatlakozhatsz egy nézegetős bulihoz az ismerősöd vagy az órarész házigazdája által megosztott link segítségével. Ezenkívül, ha még nem tette meg, a linkre kattintás után le kell töltenie az óraparti bővítményt."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Szerezd meg, ingyenes!",
+    "anyQuestions": "Készen állok, adj Hotstar Partyt",
+    "blog": "Blog",
+    "popularSearches": "Népszerű keresések",
+    "disclaimer": "Jogi nyilatkozat",
+    "disclaimerContent": "A Hotstar a Star India, a Disney Media és az Entertainment védjegye. Ez a weboldal",
+    "footerTags": [
+      "Hotstar Party Party",
+      "Hotstar Watch Party",
+      "Hotstar Party Chrome-bővítmény",
+      "Hotstar Watch Party Extension"
+    ]
+  }
+}

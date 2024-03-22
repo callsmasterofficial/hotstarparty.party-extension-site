@@ -1,0 +1,118 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Dodaj u", "free": "Besplatno je" },
+    "navBarHeading": "sada je dostupan na preglednicima Google Chrome, Microsoft Edge i Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "ORGANIZIRAJTE NAJČUDSKIJI VIRTUALNI SASTANAK PUTEM HOTSTAR ZABAVE",
+      "html": "Hotstar Party je zadivljujuća značajka na platformi Disney Plus koja korisnicima omogućuje gledanje omiljenih emisija, filmova, serija i animiranih videa s prijateljima, bez obzira na njihovu udaljenost. Korisnici moraju preuzeti Hotstar Party Chrome proširenje na svoje kompatibilne uređaje kako bi pristupili ovoj uzbudljivoj značajci. Uključuje Windows, macOS ili Chromebook, uz korištenje kompatibilnog web preglednika. Plus, kompatibilan web preglednik kao što su Google Chrome ili Microsoft Edge. Uz <a href=\"/\"><b><u>Hotstar Party</u></b></a>, korisnici mogu kreirati i pridružiti se zabavama gledanja. Pa čak i pozvati svoje prijatelje",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "KAKO UGOSTITI HOTSTAR PARTY?",
+      "subHeading": "Jeste li fanatik Hotstara koji voli pretjerano gledati Hotstarove serije i filmove? Onda je Hotstar zabava vitalna za vas bez ikakvih troškova. Stoga možete gledati neprimjetno sinkronizirano s bilo kojim od svojih prijatelja diljem svijeta. Organiziranje zabave bez napora ako slijedite ove jednostavne korake.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Kako preuzeti i instalirati Hotstar Party ekstenziju?",
+          "answer": "Potrebno je samo nekoliko minuta, a postupak preuzimanja proširenja Hotstar Party je jednostavan. Jednostavno točno slijedite ove upute.",
+          "p1": "Tamo potražite proširenje Hotstar Party odlaskom na službenu Chrome web trgovinu. Također možete kliknuti ovdje za preuzimanje proširenja.",
+          "p2": "Napomena: Također možete koristiti preglednik Microsoft Edge za preuzimanje proširenja. Nadalje, Hotstar Party Extension kompatibilan je s Windows, macOS i Chromebook uređajima.",
+          "p3": "Nakon toga kliknite gumb \"DODAJ U CHROME\".",
+          "p4": "Sada će se pojaviti kratki skočni prozor i tražiti da potvrdite svoju odluku o instaliranju proširenja. Stoga, da biste nastavili, morate kliknuti gumb \"DODAJ PROŠIRENJE\".",
+          "p5": "Osim toga, ekstenziju je potrebno prikvačiti na alatnu traku. Ako ikona proširenja tamo nije vidljiva, možete je otkriti i klikom na ikonu slagalice u gornjem desnom kutu preglednika. Ovi su jednostavni koraci za instaliranje proširenja Hotstar Watch Party. Dakle, ako ih pažljivo slijedite, moći ćete preuzeti proširenje i sinkronizirati svoje zabave gledanja sa svima ostalima na planetu. I dalje morate razumjeti kako koristiti proširenje. Da biste saznali kako koristiti ovo proširenje, čitajte dalje."
+        },
+        {
+          "id": "2",
+          "question": "Kako usidriti Hotstar Watch Party pomoću proširenja?",
+          "answer": "Sada kada ste dodali proširenje na svoj uređaj, nastavimo dalje s postupkom. Budite najbolji domaćin online zabava slijedeći dolje navedene upute. Dakle, pripremite svoje piće i kokice.",
+          "p1": "Instaliranje i prikvačivanje Hotstar party proširenja je prvi korak.",
+          "p2": "Osim toga, morate pristupiti Hotstar streaming platformi i prijaviti se sa svojim pretplaćenim računom. Provjerite jeste li prijavljeni na svoj račun.",
+          "p3": "Pronađite videozapis na Hotstaru koji želite sada pogledati na zabavi gledanja. Također, možete potražiti video prije reprodukcije.",
+          "p4": "Nakon toga kliknite ikonu proširenja koju ste već prikvačili. Ovdje će iskočiti prozor s natpisom \"POČNI ZABAVU\" i gumb \"KREIRAJ ZABAVU GLEDANJA\". Kako biste stvorili poveznicu s pozivnicom, morate kliknuti taj gumb.",
+          "p5": "Sve što preostaje učiniti jest pozvati svoje prijatelje na zabavu života tako da s njima podijelite URL gledanja zabave. Stoga podijelite vezu pozivnice za gledanje zabave sa svojim voljenima.",
+          "p6": "Na kraju, dodirnite URL pozivnice da se pridružite ludilu."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Izdvojene značajke na Hotstar Partyju",
+      "subHeading": "Hotstar Party Extension ima brojne izvanredne značajke koje ga čine fenomenalnim proširenjem za korištenje. Slijede sve one navedene karakteristike koje bi vas natjerale da odmah preuzmete proširenje.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Dostupno u cijelom svijetu",
+          "answer": "Proširenje Hotstar Watch Party dostupno je u cijelom svijetu za korištenje svima. U skladu s tim, možete ga koristiti bilo gdje na planeti. Međutim, provjerite je li Hotstar streaming usluga dostupna u vašoj regiji i zemlji. Na ovaj način možete upotrijebiti robustan VPN da promijenite svoje područje i aktivirate Hotstar u takvim slučajevima. A zatim ćete se moći povezati sa svojim prijateljima i obitelji tijekom virtualne filmske večeri."
+        },
+        {
+          "id": "t2",
+          "question": "Razgovor uživo",
+          "answer": "Vaši pratitelji na zabavi mogu dijeliti zajedničke osmijehe i reakcije na scenu koja je u tijeku. Stoga vam ova fantastična značajka grupnog sata omogućuje održavanje razgovora između gostiju zabave. Osim toga, činjenica da sjedite jedno pored drugoga u istom prostoru pruža vam udobnost. Nadalje, možete odgovoriti gostima zabave slanjem emotikona."
+        },
+        {
+          "id": "t3",
+          "question": "Prilagodite svoju zabavu gledanja",
+          "answer": "Jedan od najiznimnijih dijelova Hotstar Partyja je to što vam dopušta da personalizirate svoj profil. Od ovog trenutka nadalje, možete zadržati osebujne i prilagođene nadimke na svom profilu. Isto tako, možete odabrati i spremiti bilo koji šarmantan ili cool simbol ili profilnu sliku. U skladu s tim, možete preurediti svoj profil kako želite."
+        },
+        {
+          "id": "t4",
+          "question": "Kontrola Watch Partyja",
+          "answer": "U proširenju Hotstar Party imate određenu kontrolu nad svojom zabavom gledanja i pratite njezinu zaštitu. Nadalje, kao domaćin, možete uzeti opći pristup zabavi gledanja okretanjem gumba \"JA IMAM KONTROLU\" u zeleno. Na ovaj način ćete moći dodavati i eliminirati pojedince. Uz to, reproducirate, zaustavljate, premotavate unatrag i unaprijed streaming sadržaja."
+        },
+        {
+          "id": "t5",
+          "question": "Sinkronizacija i strujanje visoke razlučivosti",
+          "answer": "Hotstar Watch Party Extension progresivno je proširenje koje poboljšava vaše iskustvo strujanja. Osim toga, nastoji pružiti najbolje moguće iskustvo gledanja maratona. Na taj način pruža vrhunske kvalitete streaming ciljeva. Štoviše, možete uživati ​​u sadržaju sa svojim voljenima tako da ga sinkronizirate."
+        },
+        {
+          "id": "t6",
+          "question": "Besplatno korištenje",
+          "answer": "Hotstar Party je besplatno proširenje za pristup i korištenje kako biste mogli imati sve te značajke i zabavu na raspolaganju. Od ovog trenutka, ovoj zabavi možete pristupiti besplatno."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "JEDINSTVENE ZNAČAJKE",
+    "uniquefeaturebelow": "Hotstar party ekstenzija posebno je pripremljena za sve ljubitelje Hotstara. Bilo da se radi o emisijama, filmovima ili čak sportovima uživo, moći ćete neometano uživati ​​u zabavi gledanja. Nadalje, ima neke prekrasne značajke za poboljšanje vašeg iskustva i olakšavanje. Razmotrimo značajke.",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Čemu služi Hotstar Party Extension?",
+        "answer": "Svi pretplatnici Hotstara mogu koristiti proširenje, besplatni alat, za gledanje bilo koje emisije, filma ili videa sinkronizirano s onima koji žive negdje drugdje. Također mogu jedno drugom slati poruke i slati emojije dok zajedno gledaju svoje omiljene emisije. Ekstenzija se može instalirati bilo gdje u svijetu i, što je najbolje, potpuno je besplatna."
+      },
+      {
+        "id": "f2",
+        "question": "Kako mogu preuzeti i instalirati proširenje Hotstar Party?",
+        "answer": "Za pomoć pri instaliranju proširenja kliknite ovdje. Morate odabrati plavi gumb \"Dodaj u Chrome\" na službenoj instalacijskoj stranici proširenja nakon što kliknete ovu vezu. Osim toga, od vas će se tražiti da date dopuštenje prije dodavanja proširenja u vaš preglednik. Da biste to učinili, kliknite gumb \"Dodaj proširenje\". Proširenje će sada biti postavljeno na vašem računalu."
+      },
+      {
+        "id": "f3",
+        "question": "Koliko je gostiju dopušteno na Watch Partyju?",
+        "answer": "Jedna sesija Watch Partyja može primiti do 100 sudionika. S druge strane, svaki sudionik zabave treba vlastito Hotstar članstvo da bi sudjelovao u virtualnoj zabavi gledanja."
+      },
+      {
+        "id": "f4",
+        "question": "Kako mogu sudjelovati u zabavi gledanja?",
+        "answer": "Možete se pridružiti zabavi gledanja koristeći vezu koju je vaš prijatelj ili domaćin dionice sata podijelio s vama. Osim toga, ako već niste, morate preuzeti proširenje watch party nakon što kliknete vezu."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Nabavite, besplatno je!",
+    "anyQuestions": "Spreman sam, dajte mi Hotstar Party",
+    "blog": "Blog",
+    "popularSearches": "Popularne pretrage",
+    "disclaimer": "Odricanje",
+    "disclaimerContent": "Hotstar je zaštitni znak Star India, Disney Media i Entertainment. Ova web stranica",
+    "footerTags": [
+      "Hotstar Party Party",
+      "Hotstar Watch Party",
+      "Hotstar Party Chrome proširenje",
+      "Hotstar Watch Party Extension"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Přidat do", "free": "Je to zdarma" },
+    "navBarHeading": "je nyní k dispozici v prohlížečích Google Chrome, Microsoft Edge a Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "ZAHRAJTE NEJODMOCNĚJŠÍ VIRTUÁLNÍ RENDEZVOUS PŘES HOTSTAR PARTY",
+      "html": "Hotstar Party je podmanivá funkce na platformě Disney Plus, která uživatelům umožňuje sledovat jejich oblíbené pořady, filmy, seriály a animovaná videa s přáteli, bez ohledu na jejich vzdálenou polohu. Aby uživatelé měli přístup k této skvělé funkci, musí si do svých kompatibilních zařízení stáhnout rozšíření Hotstar Party Chrome. Zahrnuje Windows, macOS nebo Chromebook pomocí kompatibilního webového prohlížeče. Navíc kompatibilní webový prohlížeč, jako je Google Chrome nebo Microsoft Edge. Pomocí <a href=\"/\"><b><u>Hotstar Party</u></b></a> mohou uživatelé vytvářet a připojovat se k večírkům sledování. A dokonce pozvat své přátele",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "JAK USPOŘÁDAT HOTSTAR PARTY?",
+      "subHeading": "Jste fanatik Hotstar, který miluje sledování pořadů a filmů Hotstar? Pak je pro vás Hotstar Party životně důležitá, a to zcela zdarma. Proto můžete sledovat hladce a synchronizovaně s kterýmkoli z vašich přátel po celém světě. Uspořádání večírku je snadné, pokud budete postupovat podle těchto jednoduchých kroků.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Jak stáhnout a nainstalovat rozšíření Hotstar Party?",
+          "answer": "Stažení rozšíření Hotstar Party trvá jen několik minut a proces je jednoduchý. Jednoduše postupujte přesně podle těchto pokynů.",
+          "p1": "Zde vyhledejte rozšíření Hotstar Party v oficiálním internetovém obchodě Chrome. Můžete také kliknout sem a stáhnout rozšíření.",
+          "p2": "Poznámka: Ke stažení rozšíření můžete také použít prohlížeč Microsoft Edge. Kromě toho je Hotstar Party Extension kompatibilní se zařízeními Windows, macOS a Chromebook.",
+          "p3": "Poté klikněte na tlačítko „ADD TO CHROME“.",
+          "p4": "Nyní se objeví krátké vyskakovací okno s výzvou k potvrzení vašeho rozhodnutí nainstalovat rozšíření. Proto, abyste mohli pokračovat, musíte kliknout na tlačítko \"ADD EXTENSION\".",
+          "p5": "Kromě toho je třeba rozšíření připnout na panel nástrojů. Pokud tam ikona rozšíření není vidět, můžete ji objevit také kliknutím na ikonu puzzle v pravém horním rohu prohlížeče. Snadné kroky k instalaci rozšíření Hotstar Watch Party byly tyto. Pokud je tedy budete pečlivě dodržovat, budete si moci stáhnout rozšíření a synchronizovat párty s hodinkami se všemi ostatními na planetě. Stále musíte také pochopit, jak používat rozšíření. Chcete-li se dozvědět, jak používat toto rozšíření, čtěte dále."
+        },
+        {
+          "id": "2",
+          "question": "Jak ukotvit Hotstar Watch Party pomocí rozšíření?",
+          "answer": "Nyní, když jste rozšíření přidali do svého zařízení, pokračujte v procesu dále. Staňte se nejlepším hostitelem online večírků podle pokynů uvedených níže. Připravte si tedy svůj nápoj a popcorn.",
+          "p1": "Instalace a připnutí rozšíření Hotstar party je prvním krokem.",
+          "p2": "Kromě toho musíte mít přístup ke streamovací platformě Hotstar a přihlásit se pomocí svého předplaceného účtu. Ujistěte se, že jste přihlášeni ke svému vlastnímu účtu.",
+          "p3": "Najděte na Hotstar video, které chcete nyní sledovat na večírku. Před přehráním můžete také video vyhledat.",
+          "p4": "Poté klikněte na ikonu rozšíření, kterou jste již připnuli. Zde vyskočí okno s nápisem „ZAČÍT PARTY“ a tlačítkem „VYTVOŘIT HODINY“. Chcete-li vytvořit odkaz s pozvánkou, musíte kliknout na toto tlačítko.",
+          "p5": "Jediné, co zbývá, je pozvat své kamarády na večírek života tím, že s nimi sdílíte adresu URL sledovací party. Sdílejte tedy odkaz s pozvánkou na párty se svými blízkými.",
+          "p6": "Nakonec klepněte na adresu URL pozvánky a připojte se k šílenství."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Stand Apart Funkce na Hotstar Party",
+      "subHeading": "Hotstar Party Extension má řadu vynikajících funkcí, které z něj dělají fenomenální rozšíření k využití. Následují všechny uvedené vlastnosti, které by vás donutily okamžitě stáhnout rozšíření.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Přístupné po celém světě",
+          "answer": "Rozšíření Hotstar Watch Party je celosvětově dostupné pro každého. V souladu s tím jej můžete použít kdekoli na planetě. Ujistěte se však, že je streamovací služba Hotstar dostupná ve vaší oblasti a zemi. Tímto způsobem můžete v takových případech použít robustní VPN ke změně oblasti a aktivaci Hotstar. A pak se budete moci spojit se svými přáteli a rodinou přes virtuální filmový večer."
+        },
+        {
+          "id": "t2",
+          "question": "Živý chat",
+          "answer": "Vaši společníci večírku mohou sdílet vzájemné úsměvy a reakce na probíhající scéně. Proto vám tato fantastická funkce skupinových hodinek umožňuje udržovat konverzaci mezi hosty večírku. Navíc skutečnost, že sedíte vedle sebe ve stejné oblasti, vám poskytuje pohodlí. Dále můžete reagovat na hosty večírku zasláním emotikonů."
+        },
+        {
+          "id": "t3",
+          "question": "Přizpůsobte si párty s hodinkami",
+          "answer": "Jednou z nejvýjimečnějších částí Hotstar Party je to, že vám umožňuje personalizovat váš profil. Od této chvíle si můžete na svém profilu ponechat zvláštní a přizpůsobené přezdívky. Stejně tak si můžete vybrat a uložit jakýkoli okouzlující nebo skvělý symbol nebo profilový obrázek. V souladu s tím můžete svůj profil předělat, jak chcete."
+        },
+        {
+          "id": "t4",
+          "question": "Kontrola Watch Party",
+          "answer": "V rozšíření Hotstar Party máte určitou kontrolu nad svou hodinovou párty a držíte krok s její ochranou. Kromě toho můžete jako hostitel převzít všeobecný přístup na večírek s hodinkami otočením zeleného tlačítka „I MAVE CONTROL“. Tímto způsobem budete přidávat a odstraňovat jednotlivce. Kromě toho můžete přehrávat, zastavovat, přetáčet a vpřed streamovaný obsah."
+        },
+        {
+          "id": "t5",
+          "question": "Synchronizace a streamování ve vysokém rozlišení",
+          "answer": "Hotstar Watch Party Extension je progresivní rozšíření, které zlepšuje váš zážitek ze streamování. Kromě toho se snaží poskytnout co nejlepší zážitek ze sledování maratonu. Tímto způsobem poskytuje prvotřídní cíle streamování. Navíc si obsah můžete vychutnat se svými blízkými tím, že jej budete synchronizovat."
+        },
+        {
+          "id": "t6",
+          "question": "Zdarma k použití",
+          "answer": "Hotstar Party je bezplatné rozšíření pro přístup a využití, abyste měli k dispozici všechny tyto funkce a zábavu. Od tohoto okamžiku máte přístup k této zábavě zdarma."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "UNIKÁTNÍ VLASTNOSTI",
+    "uniquefeaturebelow": "Rozšíření Hotstar party je speciálně navrženo pro všechny fanoušky Hotstar. Ať už se jedná o pořady, filmy nebo dokonce živé sportovní přenosy, budete si moci bez problémů užít párty. Kromě toho má několik skvělých funkcí, které vylepší váš zážitek a usnadní vám práci. Pojďme se rozepsat do funkcí.",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "K čemu slouží Hotstar Party Extension?",
+        "answer": "Všichni předplatitelé Hotstar mohou používat rozšíření, bezplatný nástroj, ke sledování jakéhokoli pořadu, filmu nebo videa v synchronizaci s těmi, kteří žijí jinde. Mohou si také posílat textové zprávy a posílat si emotikony, zatímco společně sledují své oblíbené pořady. Rozšíření lze nainstalovat kdekoli na světě a je nejlépe zcela zdarma."
+      },
+      {
+        "id": "f2",
+        "question": "Jak si mohu stáhnout a nainstalovat rozšíření Hotstar Party?",
+        "answer": "Chcete-li pomoci s instalací rozšíření, klikněte sem. Po kliknutí na tento odkaz musíte na oficiální instalační stránce rozšíření zvolit modré tlačítko „Přidat do Chromu“. Před přidáním rozšíření do vašeho prohlížeče budete navíc vyzváni k udělení povolení. Chcete-li to provést, klikněte na tlačítko \"Přidat rozšíření\". Rozšíření bude nyní nastaveno na vašem počítači."
+      },
+      {
+        "id": "f3",
+        "question": "Kolik hostů smí na Watch Party?",
+        "answer": "Jedna relace Watch Party pojme až 100 účastníků. Na druhou stranu, každý účastník party potřebuje své vlastní Hotstar členství, aby se mohl zúčastnit večírku virtuálních hodinek."
+      },
+      {
+        "id": "f4",
+        "question": "Jak se mohu zúčastnit večírku?",
+        "answer": "Můžete se připojit ke sledování pomocí odkazu, který s vámi sdílí váš přítel nebo hostitel části sledování. Navíc, pokud jste to ještě neudělali, musíte si po kliknutí na odkaz stáhnout rozšíření watch party."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Získejte to, je to zdarma!",
+    "anyQuestions": "Jsem připraven, Dej mi Hotstar Party",
+    "blog": "Blog",
+    "popularSearches": "Populární vyhledávání",
+    "disclaimer": "Zřeknutí se odpovědnosti",
+    "disclaimerContent": "Hotstar je ochranná známka společností Star India, Disney Media a Entertainment. Tento web",
+    "footerTags": [
+      "Hotstar Party Party",
+      "Hotstar Watch Party",
+      "Rozšíření Hotstar Party pro Chrome",
+      "Rozšíření Hotstar Watch Party"
+    ]
+  }
+}

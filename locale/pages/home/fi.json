@@ -1,0 +1,118 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Lisätä", "free": "Se on ilmainen" },
+    "navBarHeading": "on nyt saatavilla Google Chromessa, Microsoft Edgessä ja Mozilla Firefoxissa"
+  },
+  "section": {
+    "first": {
+      "heading": "HEITÄ ERIKOISIIN VIRTUAALINEN RENDEZVOUS HOTSTAR PARTY:n kautta",
+      "html": "Hotstar Party on kiehtova ominaisuus Disney Plus -alustalla, jonka avulla käyttäjät voivat katsoa suosikkiohjelmiaan, elokuviaan, sarjojaan ja animoituja videoitaan ystävien kanssa heidän kaukaisesta sijainnistaan ​​riippumatta. Käyttäjien on ladattava Hotstar Party Chrome -laajennus yhteensopiville laitteilleen käyttääkseen tätä jännittävää ominaisuutta. Se sisältää Windowsin, macOS:n tai Chromebookin yhteensopivalla verkkoselaimella. Lisäksi yhteensopiva verkkoselain, kuten Google Chrome tai Microsoft Edge. <a href=\"/\"><b><u>Hotstar Partyn</u></b></a> avulla käyttäjät voivat luoda katselubileitä ja liittyä niihin. Ja jopa kutsua ystäviään",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "MITEN JÄRJESTÄÄN HOTSTAR-BILEET?",
+      "subHeading": "Oletko Hotstar-fanaatikko, joka rakastaa Hotstar-sarjojen ja -elokuvien ahmimista? Silloin Hotstar Party on sinulle elintärkeä ilman kustannuksia. Siksi voit katsella saumattomasti synkronoituna kaikkien ystäviesi kanssa ympäri maailmaa. Kellojuhlien järjestäminen on vaivatonta, jos noudatat näitä yksinkertaisia ​​ohjeita.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Kuinka ladata ja asentaa Hotstar Party -laajennus?",
+          "answer": "Se vie vain muutaman minuutin, ja Hotstar Party -laajennuksen lataaminen on helppoa. Noudata vain näitä ohjeita tarkasti.",
+          "p1": "Etsi Hotstar Party -laajennus sieltä siirtymällä viralliseen Chrome Web Storeen. Voit myös ladata laajennuksen napsauttamalla tätä.",
+          "p2": "Huomautus: Voit ladata laajennuksen myös Microsoft Edge -selaimella. Lisäksi Hotstar Party Extension on yhteensopiva Windows-, macOS- ja Chromebook-laitteiden kanssa.",
+          "p3": "Napsauta sen jälkeen \"LISÄÄ CHROMEIN\" -painiketta.",
+          "p4": "Näyttöön tulee nyt lyhyt ponnahdusikkuna, jossa sinua pyydetään vahvistamaan päätöksesi asentaa laajennus. Siksi sinun on napsautettava \"LISÄÄ LAAJENNUS\" -painiketta, jotta voit jatkaa.",
+          "p5": "Lisäksi laajennus on kiinnitettävä työkalupalkkiin. Jos laajennuskuvake ei näy siellä, voit löytää sen myös napsauttamalla selaimen oikeassa yläkulmassa olevaa palapelikuvaketta. Hotstar Watch Party -laajennuksen asennuksen helpot vaiheet olivat nämä. Joten jos noudatat niitä tarkasti, voit ladata laajennuksen ja synkronoida kellojuhlasi kaikkien muiden planeetalla olevien kanssa. Sinun on silti ymmärrettävä, kuinka laajennusta käytetään. Jos haluat oppia käyttämään tätä laajennusta, lue eteenpäin."
+        },
+        {
+          "id": "2",
+          "question": "Kuinka ankkuroida Hotstar Watch Party laajennuksen avulla?",
+          "answer": "Nyt kun olet lisännyt laajennuksen laitteeseesi, jatketaan prosessia. Ole paras verkkojuhlien isäntä noudattamalla alla olevia ohjeita. Joten, pidä juomasi ja popcornisi valmiina.",
+          "p1": "Hotstar Party -laajennuksen asentaminen ja kiinnittäminen on ensimmäinen askel.",
+          "p2": "Lisäksi sinun on käytettävä Hotstar-suoratoistoalustaa ja kirjauduttava sisään tilatulla tililläsi. Varmista, että olet kirjautunut omalle tilillesi.",
+          "p3": "Etsi Hotstarista video, jonka haluat katsoa katselubileissäsi nyt. Voit myös etsiä videota ennen sen toistamista.",
+          "p4": "Napsauta sen jälkeen jo kiinnittämääsi laajennuskuvaketta. Täällä avautuu ikkuna, jossa lukee \"START A PARTY\" ja painike \"LUO KATSOJUHLA\". Voit luoda kutsulinkin napsauttamalla kyseistä painiketta.",
+          "p5": "Sinun ei tarvitse tehdä muuta kuin kutsua kaverisi elämäsi juhliin jakamalla katselutapahtuman URL-osoite heidän kanssaan. Jaa siis kellobileiden kutsulinkki rakkaillesi.",
+          "p6": "Lopuksi napauta kutsun URL-osoitetta liittyäksesi hulluuteen."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Erottuvat ominaisuudet Hotstar Partyssa",
+      "subHeading": "Hotstar Party Extension sisältää lukuisia erinomaisia ​​ominaisuuksia, jotka tekevät siitä ilmiömäisen laajennuksen käytettäväksi. Seuraavassa on kaikki ne luetellut ominaisuudet, jotka saavat sinut kiirehtimään lataamaan laajennuksen välittömästi.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Saatavilla kaikkialla maailmassa",
+          "answer": "Hotstar Watch Party -laajennus on kaikkien käytettävissä maailmanlaajuisesti. Näin ollen voit käyttää sitä missä tahansa planeetalla. Varmista kuitenkin, että Hotstar-suoratoistopalvelu on saatavilla alueellasi ja maassasi. Tällä tavalla voit käyttää vahvaa VPN:ää vaihtaaksesi aluettasi ja aktivoidaksesi Hotstarin tällaisissa tapauksissa. Ja sitten voit olla yhteydessä ystäviin ja perheeseen virtuaalisen elokuvaillan aikana."
+        },
+        {
+          "id": "t2",
+          "question": "Live Chat",
+          "answer": "Kellobileiden seuralaiset voivat jakaa molemminpuolisia hymyjä ja reaktioita käynnissä olevassa kohtauksessa. Siksi tämän upean ryhmäkellon ominaisuuden avulla voit ylläpitää keskustelua juhlavieraiden välillä. Lisäksi se, että istut vierekkäin samalla alueella, tarjoaa sinulle mukavuutta. Lisäksi voit vastata juhlavieraille lähettämällä heille hymiöitä."
+        },
+        {
+          "id": "t3",
+          "question": "Mukauta Watch Partysi",
+          "answer": "Yksi Hotstar Partyn poikkeuksellisimmista osista on, että sen avulla voit muokata profiiliasi. Tästä eteenpäin voit pitää profiilissasi erikoisia ja mukautettuja nimimerkkejä. Samoin voit valita ja tallentaa minkä tahansa viehättävän tai siistin symbolin tai profiilikuvan. Näin ollen voit muokata profiilisi haluamallasi tavalla."
+        },
+        {
+          "id": "t4",
+          "question": "Watch Partyn valvonta",
+          "answer": "Hotstar Party -laajennuksessa voit hallita kellobileitäsi ja pysyä sen suojassa. Lisäksi isäntänä voit ottaa yleisen sisäänpääsyn kellobileisiin kääntämällä \"MINULLA HALLINTA\" -painikkeen vihreäksi. Tällä tavalla voit lisätä ja poistaa yksilöitä. Lisäksi toistat, pysäytät, kelaat taaksepäin ja eteenpäin suoratoistosisältöä."
+        },
+        {
+          "id": "t5",
+          "question": "Synkronointi ja korkearesoluutioinen suoratoisto",
+          "answer": "Hotstar Watch Party Extension on progressiivinen laajennus, joka parantaa suoratoistokokemustasi. Lisäksi se pyrkii tarjoamaan parhaan mahdollisen maratonin katselukokemuksen. Tällä tavalla se tarjoaa korkealaatuisia suoratoistotavoitteita. Lisäksi voit nauttia sisällöstä läheistesi kanssa suoratoistamalla sitä synkronoituna."
+        },
+        {
+          "id": "t6",
+          "question": "Vapaasti käytettävä",
+          "answer": "Hotstar Party on ilmainen laajennus, jota voit käyttää ja käyttää, jotta sinulla voi olla käytettävissäsi kaikki nämä ominaisuudet ja viihde. Tästä hetkestä lähtien voit käyttää tätä huvia ilmaiseksi."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "AINUTLAATUISET OMINAISUUDET",
+    "uniquefeaturebelow": "Hotstar-juhlalaajennus on erityisesti kuratoitu kaikille Hotstar-faneille. Olipa kyse ohjelmista, elokuvista tai jopa live-urheilusta, voit nauttia katselubileistä saumattomasti. Lisäksi siinä on upeita ominaisuuksia, jotka parantavat kokemustasi ja helpottavat sinua. Tutustutaan ominaisuuksiin.",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Mitä tarkoitusta Hotstar Party Extension palvelee?",
+        "answer": "Kaikki Hotstar-tilaajat voivat käyttää laajennusta, ilmaista työkalua, katsoakseen mitä tahansa ohjelmaa, elokuvaa tai videota synkronoituna muualla asuvien kanssa. He voivat myös lähettää tekstiviestejä ja lähettää emojeita toisilleen katsoessaan suosikkiohjelmiaan yhdessä. Laajennus voidaan asentaa kaikkialle maailmaan, ja mikä parasta, se on täysin ilmainen."
+      },
+      {
+        "id": "f2",
+        "question": "Kuinka voin ladata ja asentaa Hotstar Party -laajennuksen?",
+        "answer": "Jos tarvitset apua laajennuksen asentamisessa, napsauta tästä. Sinun on valittava sininen \"Lisää Chromeen\" -painike laajennuksen viralliselta asennussivulta tämän linkin napsautuksen jälkeen. Lisäksi sinua pyydetään antamaan lupa, ennen kuin laajennus voidaan lisätä selaimeesi. Voit tehdä tämän napsauttamalla \"Lisää laajennus\" -painiketta. Laajennus määritetään nyt tietokoneellesi."
+      },
+      {
+        "id": "f3",
+        "question": "Kuinka monta vierasta on sallittu katselubileissä?",
+        "answer": "Yhteen Watch Party -istuntoon mahtuu jopa 100 osallistujaa. Toisaalta jokainen juhliin osallistuja tarvitsee oman Hotstar-jäsenyyden osallistuakseen virtuaaliseen kellobileeseen."
+      },
+      {
+        "id": "f4",
+        "question": "Kuinka osallistun kellojuhliin?",
+        "answer": "Voit liittyä katselubileisiin linkin kautta, jonka ystäväsi tai kelloosan isäntä on jakanut kanssasi. Lisäksi, jos et ole vielä tehnyt niin, sinun on ladattava kellobileiden laajennus linkkiä napsautettuasi."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Hanki se, se on ilmainen!",
+    "anyQuestions": "Olen valmis, anna minulle Hotstar Party",
+    "blog": "Blogi",
+    "popularSearches": "Suositut haut",
+    "disclaimer": "Vastuuvapauslauseke",
+    "disclaimerContent": "Hotstar on Star Indian, Disney Median ja Entertainmentin tavaramerkki. Tämä sivusto",
+    "footerTags": [
+      "Hotstar Party Party",
+      "Hotstar Watch Party",
+      "Hotstar Party Chrome -laajennus",
+      "Hotstar Watch Party -laajennus"
+    ]
+  }
+}

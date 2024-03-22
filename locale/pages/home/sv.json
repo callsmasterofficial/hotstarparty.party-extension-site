@@ -1,0 +1,118 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Lägg till", "free": "Det är gratis" },
+    "navBarHeading": "är nu tillgänglig på Google Chrome, Microsoft Edge och Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "KASTA DET MEST OUTLANDISKA VIRTUELLA RENDES VIA HOTSTAR PARTY",
+      "html": "Hotstar Party är en fängslande funktion på Disney Plus-plattformen som låter användare se sina favoritprogram, filmer, serier och animerade videor med vänner, oavsett var de befinner sig långt borta. Användare måste ladda ner Hotstar Party Chrome-tillägget på sina kompatibla enheter för att få tillgång till denna spännande funktion. Den inkluderar Windows, macOS eller Chromebook, med en kompatibel webbläsare. Plus en kompatibel webbläsare som Google Chrome eller Microsoft Edge. Med <a href=\"/\"><b><u>Hotstar Party</u></b></a> kan användare skapa och gå med i titta på fester. Och till och med bjuda in sina vänner",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "HUR ÄR MAN FÖR EN HOTSTAR-FEST?",
+      "subHeading": "Är du en Hotstar-fanatiker som älskar att binge-titta på Hotstar-program och filmer? Då är Hotstar Party livsviktigt för dig utan kostnad alls. Därför kan du titta sömlöst i synk med någon av dina vänner runt om i världen. Det är enkelt att arrangera en klockfest om du följer dessa enkla steg.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Hur laddar man ner och installerar Hotstar Party-tillägget?",
+          "answer": "Det tar bara några minuter, och processen är enkel att ladda ner Hotstar Party-tillägget. Följ bara dessa instruktioner noggrant.",
+          "p1": "Sök efter Hotstar Party-tillägget där genom att gå till den officiella Chrome Web Store. Du kan också klicka här för att ladda ner tillägget.",
+          "p2": "Obs: Du kan också använda webbläsaren Microsoft Edge för att ladda ner tillägget. Dessutom är Hotstar Party-tillägget kompatibelt med Windows-, macOS- och Chromebook-enheter.",
+          "p3": "Klicka på knappen \"LÄGG TILL I CHROME\" efter det.",
+          "p4": "En kort popup kommer nu att visas och ber dig bekräfta ditt beslut att installera tillägget. Därför måste du klicka på knappen \"LÄGG TILL TILLGÄNG\" för att fortsätta.",
+          "p5": "Dessutom måste tillägget fästas på verktygsfältet. Om tilläggsikonen inte är synlig där kan du också upptäcka den genom att klicka på pusselikonen i det övre högra hörnet av din webbläsare. De enkla stegen för att installera Hotstar Watch Party-tillägget var dessa. Så om du noggrant följer dem kommer du att kunna ladda ner tillägget och synkronisera dina klockfester med alla andra på planeten. Du måste fortfarande förstå hur du använder tillägget också. Läs vidare för att lära dig hur du använder det här tillägget."
+        },
+        {
+          "id": "2",
+          "question": "Hur ankrar man en Hotstar Watch Party med tillägget?",
+          "answer": "Nu när du har lagt till tillägget till din enhet, låt oss fortsätta processen ytterligare. Bli den bästa värd för onlinefester genom att följa instruktionerna nedan. Så, ha din dryck och popcorn redo.",
+          "p1": "Att installera och fästa Hotstar-partytillägget är det första steget.",
+          "p2": "Dessutom måste du komma åt Hotstar-strömningsplattformen och logga in med ditt prenumererade konto. Se till att du är inloggad på ditt eget konto.",
+          "p3": "Hitta en video på Hotstar som du vill se på din klockfest nu. Du kan också söka efter videon innan du spelar den.",
+          "p4": "Efter det klickar du på tilläggsikonen som du redan har fäst. Här kommer ett fönster att dyka upp som säger \"STARTA EN PARTY\" och knappen \"SKAPA ETT SEPARTY.\" För att skapa en inbjudningslänk måste du klicka på den knappen.",
+          "p5": "Allt som återstår att göra är att bjuda in dina kompisar till ditt livs fest genom att dela webbadressen till visningsfesten med dem. Dela därför inbjudningslänken till klockfesten med dina nära och kära.",
+          "p6": "Tryck slutligen på inbjudningsadressen för att gå med i galenskapen."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Stand Apart-funktioner på Hotstar Party",
+      "subHeading": "Hotstar Party Extension har många enastående funktioner som gör den till en fenomenal förlängning att använda. Följande är alla de listade egenskaperna som skulle få dig att skynda dig att ladda ner tillägget direkt.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Tillgänglig över hela världen",
+          "answer": "Hotstar Watch Party-tillägget är tillgängligt över hela världen för alla att använda. Följaktligen kan du använda den var som helst på planeten. Se dock till att Hotstar-streamingtjänsten är tillgänglig i din region och ditt land. På detta sätt kan du använda en robust VPN för att ändra ditt område och aktivera en Hotstar i sådana fall. Och sedan kommer du att kunna få kontakt med dina vänner och familj över en virtuell filmkväll."
+        },
+        {
+          "id": "t2",
+          "question": "Livechatt",
+          "answer": "Dina klockfestkompisar kan dela ömsesidiga leenden och reaktioner på en pågående scen. Därför gör denna fantastiska funktion hos gruppklockan dig att upprätthålla en konversation mellan festgästerna. Dessutom ger det faktum att ni sitter bredvid varandra i samma område er komfort. Vidare kan du svara på festgästerna genom att skicka uttryckssymboler till dem."
+        },
+        {
+          "id": "t3",
+          "question": "Anpassa ditt klockparti",
+          "answer": "En av de mest exceptionella delarna av Hotstar Party är att den tillåter dig att anpassa din profil. Från och med den här tiden kan du behålla speciella och anpassade moniker på din profil. På samma sätt kan du välja och spara vilken charmig eller cool symbol eller profilbild som helst. Följaktligen kan du göra om din profil som du föredrar."
+        },
+        {
+          "id": "t4",
+          "question": "Kontroll av Watch Party",
+          "answer": "I Hotstar Party-tillägget har du viss kontroll över ditt klockparti och håller jämna steg med dess skydd. Dessutom kan du som värd ta det allmänna tillträdet till klockfesten genom att vrida \"JAG HAR KONTROLL\"-knappen grön. På så sätt kommer du att få lägga till och eliminera individer. Dessutom kan du spela upp, stoppa, spola tillbaka och framåt strömmande innehållet."
+        },
+        {
+          "id": "t5",
+          "question": "Synkronisering och högupplöst streaming",
+          "answer": "Hotstar Watch Party Extension är ett progressivt tillägg som förbättrar din streamingupplevelse. Dessutom strävar den efter att ge den bästa möjliga maratonupplevelsen. På detta sätt ger det streamingmål av högsta kvalitet. Dessutom kan du njuta av innehållet med dina nära och kära genom att streama det synkroniserat."
+        },
+        {
+          "id": "t6",
+          "question": "Gratis att använda",
+          "answer": "Hotstar Party är ett gratis tillägg att komma åt och använda så att du kan ha alla dessa funktioner och underhållning till ditt förfogande. Från och med nu kan du få tillgång till detta nöjen gratis."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "UNIKA FUNKTIONER",
+    "uniquefeaturebelow": "Hotstar-partytillägget är speciellt kurerat för alla Hotstar-fans. Oavsett om det är program, filmer eller till och med livesporter, kommer du att kunna njuta av klockfesten sömlöst. Dessutom har den några underbara funktioner för att förbättra din upplevelse och göra dig lättare. Låt oss bryta in i funktionerna.",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Vilket syfte tjänar Hotstar Party-tillägget?",
+        "answer": "Alla Hotstar-prenumeranter kan använda tillägget, ett gratisverktyg, för att se alla program, filmer eller videoklipp i synk med dem som bor någon annanstans. De kan också sms:a och skicka emojis till varandra medan de tittar på sina favoritprogram tillsammans. Tillägget kan installeras var som helst i världen och är, bäst av allt, helt gratis."
+      },
+      {
+        "id": "f2",
+        "question": "Hur kan jag ladda ner och installera Hotstar Party-tillägget?",
+        "answer": "För hjälp med att installera tillägget, klicka här. Du måste välja den blå \"Lägg till i Chrome\"-knappen på den officiella installationssidan för tillägget efter att ha klickat på den här länken. Dessutom kommer du att bli ombedd att ge tillåtelse innan tillägget kan läggas till i din webbläsare. För att göra detta, klicka på knappen \"Lägg till tillägg\". Tillägget kommer nu att ställas in på din dator."
+      },
+      {
+        "id": "f3",
+        "question": "Hur många gäster är tillåtna på en Watch Party?",
+        "answer": "En Watch Party-session kan ta emot upp till 100 deltagare. Å andra sidan behöver varje partideltagare sitt eget Hotstar-medlemskap för att delta i den virtuella klockfesten."
+      },
+      {
+        "id": "f4",
+        "question": "Hur deltar jag i en klockfest?",
+        "answer": "Du kan gå med i en visningsfest genom att använda länken som din vän eller värd för visningsdelen delade med dig. Dessutom, om du inte redan har gjort det, måste du ladda ner övervakningsfesttillägget efter att ha klickat på länken."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Skaffa det, det är gratis!",
+    "anyQuestions": "Jag är redo, ge mig Hotstar Party",
+    "blog": "Blogg",
+    "popularSearches": "Populära sökningar",
+    "disclaimer": "varning",
+    "disclaimerContent": "Hotstar är ett varumärke som tillhör Star India, Disney Media och Entertainment. Denna webbplats",
+    "footerTags": [
+      "Hotstar Party Party",
+      "Hotstar Watch Party",
+      "Hotstar Party Chrome-tillägg",
+      "Hotstar Watch Party Extension"
+    ]
+  }
+}
