@@ -1,0 +1,118 @@
+{
+  "header": {
+    "installBtn": { "addTo": "添加", "free": "这是免费的" },
+    "navBarHeading": "现已在 Google Chrome、Microsoft Edge 和 Mozilla Firefox 上提供"
+  },
+  "section": {
+    "first": {
+      "heading": "通过 HOTSTAR 派对举办最奇特的虚拟约会",
+      "html": "Hotstar Party 是 Disney+ 平台上的一项迷人功能，用户可以与朋友一起观看自己喜欢的节目、电影、连续剧和动画视频，无论他们身在何处。用户必须在其兼容设备上下载 Hotstar Party Chrome 扩展程序才能访问这一令人兴奋的功能。它包括 Windows、macOS 或 Chromebook，使用兼容的网络浏览器。另外，兼容的网络浏览器，例如 Google Chrome 或 Microsoft Edge。通过<a href=\"/\"><b><u>Hotstar Party</u></b></a>，用户可以创建和加入观看派对。甚至邀请他们的朋友",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "如何举办热门派对？",
+      "subHeading": "您是热星狂热者，喜欢追看热星节目和电影吗？那么 Hotstar 派对对您来说至关重要，而且无需任何费用。因此，您可以与世界各地的任何朋友无缝同步观看。如果您遵循这些简单的步骤，那么举办一场观看派对将变得轻而易举。",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "如何下载并安装 Hotstar Party 扩展？",
+          "answer": "下载 Hotstar Party 扩展程序只需几分钟，过程非常简单。只需严格遵循这些说明即可。",
+          "p1": "转至官方 Chrome 网上应用店，搜索 Hotstar Party 扩展程序。您还可以单击此处下载扩展程序。",
+          "p2": "注意：您还可以使用 Microsoft Edge 浏览器下载扩展程序。此外，Hotstar Party Extension 与 Windows、macOS 和 Chromebook 设备兼容。",
+          "p3": "之后单击“添加到 Chrome”按钮。",
+          "p4": "现在将出现一个简短的弹出窗口，并要求您确认安装扩展的决定。因此，为了继续，您必须单击“添加扩展”按钮。",
+          "p5": "此外，扩展需要固定到工具栏。如果扩展程序图标在那里不可见，您也可以通过单击浏览器右上角的拼图图标来发现它。安装 Hotstar Watch Party 扩展的简单步骤如下。因此，如果您仔细关注它们，您将能够下载扩展程序并将您的观看派对与地球上的其他人同步。您还需要了解如何使用该扩展。要了解如何使用此扩展，请继续阅读。"
+        },
+        {
+          "id": "2",
+          "question": "如何使用扩展程序举办 Hotstar 观看派对？",
+          "answer": "现在您已将扩展程序添加到设备中，让我们进一步继续该过程。按照下面列出的说明，成为在线派对的最佳主持人。所以，准备好饮料和爆米花。",
+          "p1": "安装并固定 Hotstar 派对扩展是第一步。",
+          "p2": "此外，您必须访问 Hotstar 流媒体平台并使用您订阅的帐户登录。确保您登录到自己的帐户。",
+          "p3": "现在就在 Hotstar 上查找您想在观看派对上观看的视频。此外，您可以在播放之前搜索视频。",
+          "p4": "之后，单击您已固定的扩展程序图标。在这里，会弹出一个窗口，显示“开始派对”和按钮“创建观看派对”。为了创建邀请链接，您必须单击该按钮。",
+          "p5": "剩下要做的就是通过与朋友分享观看派对 URL 来邀请他们参加终生难忘的派对。因此，与您所爱的人分享观看派对邀请链接。",
+          "p6": "最后，点击邀请网址即可加入疯狂活动。"
+        }
+      ]
+    },
+    "three": {
+      "heading": "Hotstar Party 的特色特色",
+      "subHeading": "Hotstar Party Extension 具有许多出色的功能，使其成为一个出色的扩展。以下列出的所有特征都会让您急于立即下载该扩展程序。",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "全球均可访问",
+          "answer": "Hotstar Watch Party 扩展可供全球所有人使用。因此，您可以在地球上的任何地方使用它。但是，请确保 Hotstar 流媒体服务在您所在的地区和国家/地区可用。通过这种方式，您可以使用强大的 VPN 来更改您的区域并在这种情况下激活 Hotstar。然后，您将能够通过虚拟电影之夜与您的朋友和家人联系。"
+        },
+        {
+          "id": "t2",
+          "question": "在线聊天",
+          "answer": "您的观看派对同伴可以在正在进行的场景中分享彼此的微笑和反应。因此，群组观看的这一奇妙功能使您能够保持聚会客人之间的对话。此外，您在同一区域坐在一起，这一事实让您感到舒适。此外，您可以通过向聚会客人发送表情符号来回应他们。"
+        },
+        {
+          "id": "t3",
+          "question": "定制您的观看派对",
+          "answer": "Hotstar Party 最特别的部分之一是它允许您个性化您的个人资料。从现在起，您可以在您的个人资料中保留特殊且自定义的昵称。同样，您可以选择并保存任何迷人或酷的符号或个人资料图片。因此，您可以根据自己的喜好重做您的个人资料。"
+        },
+        {
+          "id": "t4",
+          "question": "观看派对的控制",
+          "answer": "在 Hotstar Party 扩展中，您可以对您的观看派对进行一定程度的控制并保持其保护。此外，作为主持人，您可以通过将“我有控制权”按钮变成绿色来获得观看派对的一般入场资格。这样，您就可以添加和删除个人。此外，您还可以播放、停止、快退和转发流媒体内容。"
+        },
+        {
+          "id": "t5",
+          "question": "同步和高分辨率流媒体",
+          "answer": "Hotstar Watch Party Extension 是一个渐进式扩展，可改善您的流媒体体验。此外，它还致力于提供最佳的马拉松观看体验。通过这种方式，它提供了优质的流媒体目标。此外，您可以通过同步流式传输来与亲人一起欣赏内容。"
+        },
+        {
+          "id": "t6",
+          "question": "免费使用",
+          "answer": "Hotstar Party 是一个免费的访问和使用扩展，以便您可以随意使用所有这些功能和娱乐。从现在起，您就可以免费享受这项娱乐了。"
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "独特的功能",
+    "uniquefeaturebelow": "Hotstar 派对扩展是专门为所有 Hotstar 粉丝策划的。无论是节目、电影，甚至是体育直播，您都可以无缝地享受观看派对。此外，它还有一些精彩的功能来增强您的体验并让您轻松自如。让我们来看看这些功能。",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Hotstar Party Extension 的用途是什么？",
+        "answer": "所有 Hotstar 订阅者都可以使用该扩展程序（一个免费工具）与居住在其他地方的人同步观看任何节目、电影或视频。他们还可以在一起观看自己喜欢的节目时互相发短信和发送表情符号。该扩展可以安装在世界任何地方，最重要的是，完全免费。"
+      },
+      {
+        "id": "f2",
+        "question": "如何下载并安装 Hotstar Party 扩展？",
+        "answer": "如需安装扩展程序的帮助，请单击此处。单击此链接后，您必须在扩展程序的官方安装页面上选择蓝色的“添加到 Chrome”按钮。此外，在将扩展程序添加到浏览器之前，系统会提示您授予权限。为此，请单击“添加扩展”按钮。现在，该扩展程序将在您的计算机上设置。"
+      },
+      {
+        "id": "f3",
+        "question": "观看派对允许多少位客人参加？",
+        "answer": "One Watch Party 会议最多可容纳 100 名参与者。另一方面，每个派对参与者都需要拥有自己的 Hotstar 会员资格才能参加虚拟观看派对。"
+      },
+      {
+        "id": "f4",
+        "question": "如何参加观看派对？",
+        "answer": "您可以使用您的朋友或手表零件主持人与您分享的链接加入手表派对。此外，如果您尚未下载，则必须在单击链接后下载观看派对扩展程序。"
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "获取它，它是免费的！",
+    "anyQuestions": "我准备好了，给我举办 Hotstar 派对",
+    "blog": "博客",
+    "popularSearches": "热门搜索",
+    "disclaimer": "免责声明",
+    "disclaimerContent": "Hotstar 是 Star India、迪士尼媒体和娱乐公司的商标。这个网站",
+    "footerTags": [
+      "热星派对派对",
+      "Hotstar 观看派对",
+      "Hotstar Party Chrome 扩展",
+      "Hotstar 观看派对扩展"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Dodati k", "free": "Brezplačno je" },
+    "navBarHeading": "je zdaj na voljo v brskalnikih Google Chrome, Microsoft Edge in Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "PRIGODITE NAJBOLJ ČUDENARSKO VIRTUALNO SREČANJE PREKO HOTSTAR ZABAVE",
+      "html": "Hotstar Party je očarljiva funkcija na platformi Disney Plus, ki uporabnikom omogoča ogled svojih najljubših oddaj, filmov, serij in animiranih videov s prijatelji, ne glede na njihovo oddaljenost. Uporabniki morajo za dostop do te vznemirljive funkcije prenesti razširitev Hotstar Party za Chrome na svoje združljive naprave. Vključuje Windows, macOS ali Chromebook z uporabo združljivega spletnega brskalnika. Poleg tega združljiv spletni brskalnik, kot sta Google Chrome ali Microsoft Edge. Z <a href=\"/\"><b><u>Hotstar Party</u></b></a> lahko uporabniki ustvarijo zabave in se jim pridružijo. In celo povabijo svoje prijatelje",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "KAKO GOSTITI HOTSTAR ZABAVO?",
+      "subHeading": "Ali ste fanatik Hotstarja, ki rad naglo gleda oddaje in filme Hotstar? Potem je Hotstar Party nujen za vas brez kakršnih koli stroškov. Zato lahko brez težav gledate sinhronizirano s katerim koli od svojih prijateljev po vsem svetu. Če sledite tem preprostim korakom, bo organiziranje zabave brez napora.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Kako prenesti in namestiti razširitev Hotstar Party?",
+          "answer": "Traja le nekaj minut, postopek prenosa razširitve Hotstar Party pa je preprost. Preprosto natančno sledite tem navodilom.",
+          "p1": "Tam poiščite razširitev Hotstar Party v uradni spletni trgovini Chrome. Za prenos razširitve lahko tudi kliknete tukaj.",
+          "p2": "Opomba: za prenos razširitve lahko uporabite tudi brskalnik Microsoft Edge. Poleg tega je razširitev Hotstar Party združljiva z napravami Windows, macOS in Chromebook.",
+          "p3": "Nato kliknite gumb »DODAJ V CHROME«.",
+          "p4": "Pojavilo se bo kratko pojavno okno, v katerem boste morali potrditi svojo odločitev o namestitvi razširitve. Zato morate za nadaljevanje klikniti gumb \"DODAJ RAZŠIRITEV\".",
+          "p5": "Poleg tega je treba razširitev pripeti na orodno vrstico. Če ikona razširitve tam ni vidna, jo lahko odkrijete tudi tako, da kliknete ikono uganke v zgornjem desnem kotu brskalnika. Enostavni koraki za namestitev razširitve Hotstar Watch Party so bili ti. Torej, če jim natančno sledite, boste lahko prenesli razširitev in sinhronizirali svoje ure z vsemi drugimi na planetu. Še vedno morate razumeti, kako uporabljati razširitev. Če želite izvedeti, kako uporabljati to razširitev, berite naprej."
+        },
+        {
+          "id": "2",
+          "question": "Kako zasidrati Hotstar Watch Party z uporabo razširitve?",
+          "answer": "Zdaj, ko ste razširitev dodali svoji napravi, nadaljujmo s postopkom. Bodite najboljši gostitelj spletnih zabav z upoštevanjem spodnjih navodil. Torej, pripravite svojo pijačo in pokovko.",
+          "p1": "Namestitev in pripenjanje razširitve Hotstar party je prvi korak.",
+          "p2": "Poleg tega morate dostopati do pretočne platforme Hotstar in se prijaviti s svojim naročenim računom. Prepričajte se, da ste prijavljeni v svoj račun.",
+          "p3": "Na Hotstarju poiščite videoposnetek, ki si ga želite ogledati na zabavi ob ogledu. Prav tako lahko poiščete video, preden ga predvajate.",
+          "p4": "Po tem kliknite ikono razširitve, ki ste jo že pripeli. Tukaj se prikaže okno z napisom \"ZAČNI ZABAVO\" in gumb \"USTVARI OGLED ZABAVE.\" Če želite ustvariti povezavo s povabilom, morate klikniti ta gumb.",
+          "p5": "Vse kar morate storiti je, da povabite svoje prijatelje na zabavo življenja, tako da z njimi delite URL za ogled zabave. Zato delite povezavo do povabila na zabavo z ogledom s svojimi najdražjimi.",
+          "p6": "Na koncu se dotaknite URL-ja povabila, da se pridružite norosti."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Funkcije Stand Apart na zabavi Hotstar",
+      "subHeading": "Razširitev Hotstar Party Extension ima številne izjemne funkcije, zaradi katerih je razširitev izjemna za uporabo. V nadaljevanju so navedene vse tiste značilnosti, zaradi katerih bi takoj pohiteli s prenosom razširitve.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Dostopno po vsem svetu",
+          "answer": "Razširitev Hotstar Watch Party je dostopna po vsem svetu in jo lahko uporabljajo vsi. V skladu s tem ga lahko uporabljate kjer koli na planetu. Vendar se prepričajte, da je storitev pretakanja Hotstar na voljo v vaši regiji in državi. Na ta način lahko uporabite robusten VPN, da spremenite svoje območje in v takih primerih aktivirate Hotstar. In potem se boste lahko povezali s prijatelji in družino v virtualnem filmskem večeru."
+        },
+        {
+          "id": "t2",
+          "question": "Klepet v živo",
+          "answer": "Vaši spremljevalci pri gledanju zabave si lahko delijo skupne nasmehe in reakcije na dogajanje. Zato vam ta fantastična funkcija skupinske ure omogoča vzdrževanje pogovora med gosti zabave. Poleg tega vam dejstvo, da sedite drug poleg drugega v istem prostoru, zagotavlja udobje. Poleg tega lahko gostom zabave odgovorite tako, da jim pošljete čustvene simbole."
+        },
+        {
+          "id": "t3",
+          "question": "Prilagodite svoj Watch Party",
+          "answer": "Eden najbolj izjemnih delov Hotstar Party je, da vam omogoča, da prilagodite svoj profil. Od tega trenutka naprej lahko v svojem profilu obdržite posebne in prilagojene vzdevke. Prav tako lahko izberete in shranite kateri koli očarljiv ali kul simbol ali sliko profila. V skladu s tem lahko svoj profil preoblikujete, kot želite."
+        },
+        {
+          "id": "t4",
+          "question": "Nadzor nad skupino Watch",
+          "answer": "V razširitvi Hotstar Party imate določen nadzor nad zabavo ob gledanju in spremljate njeno zaščito. Poleg tega lahko kot gostitelj prevzamete splošen vstop na zabavo z ogledom tako, da gumb »IMAM NADZOR« obrnete zeleno. Na ta način boste dodajali in izločali posameznike. Poleg tega predvajate, ustavljate, previjate nazaj in naprej pretočno vsebino."
+        },
+        {
+          "id": "t5",
+          "question": "Sinhronizacija in pretakanje v visoki ločljivosti",
+          "answer": "Hotstar Watch Party Extension je progresivna razširitev, ki izboljša vašo izkušnjo pretakanja. Poleg tega si prizadeva zagotoviti najboljšo možno izkušnjo gledanja maratona. Na ta način zagotavlja pretočne cilje vrhunske kakovosti. Poleg tega lahko uživate v vsebini s svojimi najdražjimi, tako da jo sinhronizirate."
+        },
+        {
+          "id": "t6",
+          "question": "Brezplačna uporaba",
+          "answer": "Hotstar Party je brezplačna razširitev za dostop in uporabo, tako da imate na voljo vse te funkcije in zabavo. Od te točke naprej lahko do te zabave dostopate brezplačno."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "EDINSTVENE LASTNOSTI",
+    "uniquefeaturebelow": "Razširitev zabave Hotstar je posebej pripravljena za vse oboževalce Hotstar. Ne glede na to, ali gre za oddaje, filme ali celo šport v živo, boste lahko nemoteno uživali v zabavi. Poleg tega ima nekaj čudovitih funkcij, ki izboljšajo vašo izkušnjo in vas olajšajo. Oglejmo si funkcije.",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Čemu služi Hotstar Party Extension?",
+        "answer": "Vsi naročniki Hotstar lahko uporabljajo razširitev, brezplačno orodje, za ogled katere koli oddaje, filma ali videa v sinhronizaciji s tistimi, ki živijo drugje. Drug drugemu lahko tudi pošiljata sporočila in pošiljata emojije, medtem ko skupaj gledata svoje najljubše oddaje. Razširitev je mogoče namestiti kjerkoli na svetu in je, kar je najboljše, popolnoma brezplačna."
+      },
+      {
+        "id": "f2",
+        "question": "Kako lahko prenesem in namestim razširitev Hotstar Party?",
+        "answer": "Za pomoč pri namestitvi razširitve kliknite tukaj. Po kliku te povezave morate izbrati modri gumb »Dodaj v Chrome« na uradni namestitveni strani razširitve. Poleg tega boste pozvani, da podate dovoljenje, preden lahko razširitev dodate v brskalnik. Če želite to narediti, kliknite gumb »Dodaj razširitev«. Razširitev bo zdaj nastavljena v vašem računalniku."
+      },
+      {
+        "id": "f3",
+        "question": "Koliko gostov je dovoljenih na Watch Party?",
+        "answer": "Ena seja Watch Party lahko sprejme do 100 udeležencev. Po drugi strani pa vsak udeleženec zabave potrebuje svoje članstvo v Hotstarju, da lahko sodeluje v virtualni zabavi ob gledanju."
+      },
+      {
+        "id": "f4",
+        "question": "Kako lahko sodelujem pri ogledu?",
+        "answer": "Zabavi za ogled se lahko pridružite s povezavo, ki jo je vaš prijatelj ali gostitelj strani delil z vami. Poleg tega, če tega še niste storili, morate po kliku na povezavo prenesti razširitev watch party."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Dobite ga, brezplačno je!",
+    "anyQuestions": "Pripravljen sem, podarite mi Hotstar Party",
+    "blog": "Blog",
+    "popularSearches": "Priljubljena iskanja",
+    "disclaimer": "Zavrnitev odgovornosti",
+    "disclaimerContent": "Hotstar je blagovna znamka Star India, Disney Media in Entertainment. To spletno mesto",
+    "footerTags": [
+      "Hotstar Party Party",
+      "Hotstar Watch Party",
+      "Hotstar Party razširitev za Chrome",
+      "Razširitev Hotstar Watch Party"
+    ]
+  }
+}

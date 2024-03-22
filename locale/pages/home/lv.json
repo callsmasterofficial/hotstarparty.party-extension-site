@@ -1,0 +1,118 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Pievienot", "free": "Tas ir bezmaksas" },
+    "navBarHeading": "tagad ir pieejams pārlūkprogrammās Google Chrome, Microsoft Edge un Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "IZVEIDOJIET PAŠĀKĀK VIRTUĀLĀKĀ ĪPAŠUMA, VIA HOTSTAR PARTY",
+      "html": "Hotstar Party ir aizraujoša Disney Plus platformas funkcija, kas ļauj lietotājiem skatīties savus iecienītākos šovus, filmas, seriālus un animācijas videoklipus ar draugiem neatkarīgi no viņu attālās atrašanās vietas. Lai piekļūtu šai aizraujošajai funkcijai, lietotājiem ir jālejupielādē Hotstar Party Chrome paplašinājums savās saderīgās ierīcēs. Tas ietver Windows, macOS vai Chromebook datoru, izmantojot saderīgu tīmekļa pārlūkprogrammu. Turklāt saderīga tīmekļa pārlūkprogramma, piemēram, Google Chrome vai Microsoft Edge. Izmantojot <a href=\"/\"><b><u>Hotstar Party</u></b></a>, lietotāji var izveidot skatīšanās ballītes un pievienoties tām. Un pat uzaicināt savus draugus",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "KĀ RĪKOT HOTSTAR PARTY?",
+      "subHeading": "Vai esat Hotstar fanātiķis, kuram patīk nesteidzīgi skatīties Hotstar pārraides un filmas? Tad Hotstar ballīte jums ir ļoti svarīga bez maksas. Tāpēc jūs varat skatīties nevainojami sinhronizācijā ar jebkuru no saviem draugiem visā pasaulē. Skatīšanās ballītes organizēšana ir vienkārša, ja veicat šīs vienkāršās darbības.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Kā lejupielādēt un instalēt paplašinājumu Hotstar Party?",
+          "answer": "Tas aizņem tikai dažas minūtes, un Hotstar Party paplašinājuma lejupielādes process ir vienkāršs. Vienkārši precīzi izpildiet šos norādījumus.",
+          "p1": "Meklējiet tur Hotstar Party paplašinājumu, dodoties uz oficiālo Chrome interneta veikalu. Varat arī noklikšķināt šeit, lai lejupielādētu paplašinājumu.",
+          "p2": "Piezīme. Lai lejupielādētu paplašinājumu, varat izmantot arī pārlūkprogrammu Microsoft Edge. Turklāt Hotstar Party paplašinājums ir saderīgs ar Windows, macOS un Chromebook ierīcēm.",
+          "p3": "Pēc tam noklikšķiniet uz pogas \"PIEVIENOT CHROME\".",
+          "p4": "Tagad parādīsies īss uznirstošais logs, kurā jums būs jāapstiprina lēmums instalēt paplašinājumu. Tāpēc, lai turpinātu, jānoklikšķina uz pogas \"PIEVIENOT PAPLAŠINĀJUMU\".",
+          "p5": "Turklāt paplašinājums ir jāpiesprauž rīkjoslai. Ja paplašinājuma ikona tur nav redzama, varat to atklāt, pārlūkprogrammas augšējā labajā stūrī noklikšķinot uz mīklas ikonas. Šīs bija vienkāršas darbības, lai instalētu Hotstar Watch Party paplašinājumu. Tātad, ja rūpīgi sekosit tiem, varēsit lejupielādēt paplašinājumu un sinhronizēt pulksteņu ballītes ar visiem pārējiem planētas iedzīvotājiem. Jums joprojām ir jāsaprot, kā izmantot paplašinājumu. Lai uzzinātu, kā izmantot šo paplašinājumu, lasiet tālāk."
+        },
+        {
+          "id": "2",
+          "question": "Kā noenkurot Hotstar Watch Party, izmantojot paplašinājumu?",
+          "answer": "Tagad, kad ierīcei esat pievienojis paplašinājumu, turpināsim procesu. Esiet izcilākais tiešsaistes ballīšu saimnieks, izpildot tālāk sniegtos norādījumus. Tātad, sagatavojiet dzērienu un popkornu.",
+          "p1": "Pirmais solis ir Hotstar ballītes paplašinājuma instalēšana un piespraušana.",
+          "p2": "Turklāt jums ir jāpiekļūst Hotstar straumēšanas platformai un jāpiesakās ar savu abonēto kontu. Pārliecinieties, ka esat pieteicies savā kontā.",
+          "p3": "Vietnē Hotstar atrodiet videoklipu, kuru vēlaties skatīties savā skatīšanās ballītē tūlīt. Varat arī meklēt videoklipu pirms tā atskaņošanas.",
+          "p4": "Pēc tam noklikšķiniet uz jau piespraustās paplašinājuma ikonas. Šeit tiks parādīts logs ar tekstu \"START A PARTY\" un poga \"IZVEIDOT SKATĪŠANĀS BALLĪTI\". Lai izveidotu ielūguma saiti, jums jānoklikšķina uz šīs pogas.",
+          "p5": "Atliek tikai uzaicināt savus draugus uz mūža ballīti, kopīgojot ar viņiem skatīšanās ballītes URL. Tādējādi kopīgojiet pulksteņu ballītes ielūguma saiti ar saviem mīļajiem.",
+          "p6": "Visbeidzot, pieskarieties uzaicinājuma URL, lai pievienotos neprātam."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Atšķiras funkcijas pakalpojumā Hotstar Party",
+      "subHeading": "Paplašinājumam Hotstar Party ir daudzas izcilas funkcijas, kas padara to par fenomenālu paplašinājumu. Tālāk ir norādītas visas uzskaitītās īpašības, kas liek jums nekavējoties lejupielādēt paplašinājumu.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Pieejams visā pasaulē",
+          "answer": "Hotstar Watch Party paplašinājums ir pieejams visā pasaulē, lai to varētu izmantot ikviens. Attiecīgi jūs varat to izmantot jebkurā vietā uz planētas. Tomēr pārliecinieties, vai Hotstar straumēšanas pakalpojums ir pieejams jūsu reģionā un valstī. Tādā veidā jūs varat izmantot spēcīgu VPN, lai mainītu savu apgabalu un šādos gadījumos aktivizētu Hotstar. Pēc tam virtuālā filmu vakarā varēsit sazināties ar draugiem un ģimeni."
+        },
+        {
+          "id": "t2",
+          "question": "Tiešraides Čats",
+          "answer": "Jūsu pulksteņu ballītes pavadoņi var dalīties savstarpēji smaidot un reaģēt uz notiekošo ainu. Tāpēc šī fantastiskā grupas pulksteņa funkcija ļauj uzturēt sarunu starp ballītes viesiem. Turklāt fakts, ka jūs sēdējat viens otram blakus vienā un tajā pašā zonā, sniedz jums komfortu. Turklāt jūs varat atbildēt ballītes viesiem, nosūtot viņiem emocijzīmes."
+        },
+        {
+          "id": "t3",
+          "question": "Pielāgojiet savu skatīšanās ballīti",
+          "answer": "Viena no Hotstar Party izcilākajām daļām ir tā, ka tā ļauj personalizēt savu profilu. No šī brīža savā profilā varat saglabāt īpašus un pielāgotus monikerus. Tāpat jūs varat izvēlēties un saglabāt jebkuru burvīgu vai foršu simbolu vai profila attēlu. Attiecīgi jūs varat pārtaisīt savu profilu, kā vēlaties."
+        },
+        {
+          "id": "t4",
+          "question": "Skatīties partijas kontrole",
+          "answer": "Hotstar Party paplašinājumā jūs varat kontrolēt savu pulksteņu ballīti un sekot līdzi tās aizsardzībai. Turklāt, kā saimnieks, jūs varat pieņemt vispārēju pielaidi pulksteņa ballītei, pagriežot pogu \"MAN IR KONTROLE\" zaļā krāsā. Tādā veidā jūs varēsit pievienot un likvidēt personas. Turklāt jūs varat atskaņot, apturēt, attīt atpakaļ un pārsūtīt straumēšanas saturu."
+        },
+        {
+          "id": "t5",
+          "question": "Sinhronizācija un augstas izšķirtspējas straumēšana",
+          "answer": "Hotstar Watch Party Extension ir progresīvs paplašinājums, kas uzlabo jūsu straumēšanas pieredzi. Turklāt tā cenšas nodrošināt vislabāko iespējamo maratona skatīšanās pieredzi. Tādā veidā tas nodrošina augstākās kvalitātes straumēšanas mērķus. Turklāt jūs varat baudīt saturu kopā ar saviem mīļajiem, straumējot to sinhroni."
+        },
+        {
+          "id": "t6",
+          "question": "Bezmaksas lietošanai",
+          "answer": "Hotstar Party ir bezmaksas paplašinājums, lai piekļūtu un izmantotu, lai jūsu rīcībā varētu būt visas šīs funkcijas un izklaide. No šī brīža jūs varat piekļūt šai atrakcijai bez maksas."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "UNIKĀLAS ĪPAŠĪBAS",
+    "uniquefeaturebelow": "Hotstar ballītes paplašinājums ir īpaši izstrādāts visiem Hotstar faniem. Neatkarīgi no tā, vai tie ir šovi, filmas vai pat sporta tiešraides, jūs varēsiet nevainojami izbaudīt skatīšanās ballīti. Turklāt tam ir dažas brīnišķīgas funkcijas, kas uzlabo jūsu pieredzi un atvieglo jūsu darbību. Apskatīsim funkcijas.",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Kādam nolūkam kalpo Hotstar Party paplašinājums?",
+        "answer": "Visi Hotstar abonenti var izmantot paplašinājumu, bezmaksas rīku, lai skatītu jebkuru pārraidi, filmu vai videoklipu sinhroni ar tiem, kas dzīvo citur. Viņi var arī sūtīt īsziņas un sūtīt emocijzīmes viens otram, vienlaikus skatoties savas iecienītākās pārraides. Paplašinājumu var instalēt jebkurā vietā pasaulē, un tas, pats labākais, ir pilnīgi bez maksas."
+      },
+      {
+        "id": "f2",
+        "question": "Kā es varu lejupielādēt un instalēt Hotstar Party paplašinājumu?",
+        "answer": "Lai saņemtu palīdzību par paplašinājuma instalēšanu, lūdzu, noklikšķiniet šeit. Pēc noklikšķināšanas uz šīs saites oficiālajā paplašinājuma instalēšanas lapā ir jāizvēlas zilā poga \"Pievienot pārlūkam Chrome\". Turklāt jums tiks lūgts dot atļauju, pirms paplašinājumu varēs pievienot jūsu pārlūkprogrammai. Lai to izdarītu, noklikšķiniet uz pogas \"Pievienot paplašinājumu\". Paplašinājums tagad tiks iestatīts jūsu datorā."
+      },
+      {
+        "id": "f3",
+        "question": "Cik viesu drīkst piedalīties skatīšanās ballītē?",
+        "answer": "Vienā Watch Party sesijā var uzņemt līdz 100 dalībnieku. No otras puses, katram ballītes dalībniekam ir nepieciešams savs Hotstar dalībnieks, lai piedalītos virtuālajā pulksteņa ballītē."
+      },
+      {
+        "id": "f4",
+        "question": "Kā piedalīties pulksteņu ballītē?",
+        "answer": "Varat pievienoties skatīšanās ballītei, izmantojot saiti, ko ar jums kopīgojis draugs vai pulksteņa daļas vadītājs. Turklāt, ja vēl neesat to izdarījis, pēc noklikšķināšanas uz saites ir jālejupielādē skatīšanās ballītes paplašinājums."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Iegūstiet to, tas ir bez maksas!",
+    "anyQuestions": "Esmu gatavs, dodiet man Hotstar Party",
+    "blog": "Emuārs",
+    "popularSearches": "Populāri meklējumi",
+    "disclaimer": "Atruna",
+    "disclaimerContent": "Hotstar ir Star India, Disney Media un Entertainment preču zīme. Šī vietne",
+    "footerTags": [
+      "Hotstar ballīte",
+      "Hotstar skatīšanās ballīte",
+      "Hotstar Party Chrome paplašinājums",
+      "Hotstar Watch Party paplašinājums"
+    ]
+  }
+}

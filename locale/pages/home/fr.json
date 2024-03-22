@@ -1,0 +1,118 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Ajouter à", "free": "Ce est gratuit" },
+    "navBarHeading": "est désormais disponible sur Google Chrome, Microsoft Edge et Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "ORGANISEZ LE RENDEZ-VOUS VIRTUEL LE PLUS EXTRAORDINAIRE VIA HOTSTAR PARTY",
+      "html": "Hotstar Party est une fonctionnalité captivante de la plate-forme Disney Plus qui permet aux utilisateurs de regarder leurs émissions, films, séries et vidéos d'animation préférés avec des amis, quel que soit leur emplacement éloigné. Les utilisateurs doivent télécharger l'extension Hotstar Party Chrome sur leurs appareils compatibles pour accéder à cette fonctionnalité intéressante. Il inclut Windows, macOS ou Chromebook, en utilisant un navigateur Web compatible. De plus, un navigateur Web compatible tel que Google Chrome ou Microsoft Edge. Avec <a href=\"/\"><b><u>Hotstar Party</u></b></a>, les utilisateurs peuvent créer et rejoindre des soirées de visionnage. Et même inviter leurs amis",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "COMMENT ORGANISER UNE SOIRÉE HOTSTAR ?",
+      "subHeading": "Êtes-vous un fanatique de Hotstar qui adore regarder des émissions et des films Hotstar ? Alors la Hotstar Party est vitale pour vous, et ce, gratuitement. Par conséquent, vous pouvez regarder en toute transparence en synchronisation avec n’importe lequel de vos amis dans le monde entier. Organiser une soirée de surveillance se fait sans effort si vous suivez ces étapes simples.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Comment télécharger et installer l’extension Hotstar Party ?",
+          "answer": "Cela ne prend que quelques minutes et le processus est simple pour télécharger l’extension Hotstar Party. Suivez simplement ces instructions avec précision.",
+          "p1": "Recherchez l’extension Hotstar Party en accédant au Chrome Web Store officiel. Vous pouvez également cliquer ici pour télécharger l'extension.",
+          "p2": "Remarque : Vous pouvez également utiliser le navigateur Microsoft Edge pour télécharger l'extension. De plus, l'extension Hotstar Party est compatible avec les appareils Windows, macOS et Chromebook.",
+          "p3": "Cliquez ensuite sur le bouton \"AJOUTER À CHROME\".",
+          "p4": "Une brève fenêtre contextuelle apparaîtra maintenant et vous demandera de confirmer votre décision d'installer l'extension. Par conséquent, pour continuer, vous devez cliquer sur le bouton « AJOUTER UNE EXTENSION ».",
+          "p5": "De plus, l'extension doit être épinglée à la barre d'outils. Si l'icône de l'extension n'y est pas visible, vous pouvez également la découvrir en cliquant sur l'icône du puzzle dans le coin supérieur droit de votre navigateur. Les étapes simples pour installer l’extension Hotstar Watch Party étaient les suivantes. Ainsi, si vous les suivez attentivement, vous pourrez télécharger l'extension et synchroniser vos soirées de surveillance avec tout le monde sur la planète. Vous devez également comprendre comment utiliser l’extension. Pour savoir comment utiliser cette extension, lisez la suite."
+        },
+        {
+          "id": "2",
+          "question": "Comment ancrer une Hotstar Watch Party à l'aide de l'extension ?",
+          "answer": "Maintenant que vous avez ajouté l'extension à votre appareil, poursuivons le processus. Soyez le meilleur hôte de soirées en ligne en suivant les instructions ci-dessous. Alors, préparez votre boisson et votre pop-corn.",
+          "p1": "L'installation et l'épinglage de l'extension Hotstar Party sont la première étape.",
+          "p2": "De plus, vous devez accéder à la plateforme de streaming Hotstar et vous connecter avec votre compte abonné. Assurez-vous que vous êtes connecté à votre propre compte.",
+          "p3": "Trouvez une vidéo sur Hotstar que vous souhaitez regarder lors de votre soirée de visionnage maintenant. Vous pouvez également rechercher la vidéo avant de la lire.",
+          "p4": "Après cela, cliquez sur l'icône d'extension que vous avez déjà épinglée. Ici, une fenêtre apparaîtra indiquant « START A PARTY » et le bouton « CREATE A WATCH PARTY ». Afin de créer un lien d'invitation, vous devez cliquer sur ce bouton.",
+          "p5": "Il ne vous reste plus qu'à inviter vos amis à la fête de votre vie en partageant l'URL de la soirée de visionnage avec eux. Ainsi, partagez le lien d’invitation à la soirée de visionnage avec vos proches.",
+          "p6": "Enfin, appuyez sur l'URL d'invitation pour rejoindre la folie."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Fonctionnalités distinctes sur Hotstar Party",
+      "subHeading": "Hotstar Party Extension possède de nombreuses fonctionnalités exceptionnelles qui en font une extension phénoménale à utiliser. Voici toutes les caractéristiques répertoriées qui vous inciteraient à vous précipiter pour télécharger l’extension instantanément.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Accessible dans le monde entier",
+          "answer": "L'extension Hotstar Watch Party est accessible dans le monde entier pour que tout le monde puisse l'utiliser. Vous pouvez donc l’utiliser n’importe où sur la planète. Cependant, assurez-vous que le service de streaming Hotstar est disponible dans votre région et votre pays. De cette manière, vous pouvez utiliser un VPN robuste pour changer de zone et activer un Hotstar dans de tels cas. Et puis, vous pourrez vous connecter avec vos amis et votre famille lors d’une soirée cinéma virtuelle."
+        },
+        {
+          "id": "t2",
+          "question": "Chat en direct",
+          "answer": "Vos compagnons de soirée peuvent partager des sourires et des réactions mutuels sur une scène en cours. Par conséquent, cette fonctionnalité fantastique de la montre de groupe vous permet de maintenir une conversation entre les invités de la fête. De plus, le fait que vous soyez assis les uns à côté des autres dans la même zone vous apporte du confort. De plus, vous pouvez répondre aux invités en leur envoyant des émoticônes."
+        },
+        {
+          "id": "t3",
+          "question": "Personnalisez votre soirée montre",
+          "answer": "L'une des parties les plus exceptionnelles de Hotstar Party est qu'elle vous permet de personnaliser votre profil. À partir de ce moment, vous pouvez conserver des surnoms particuliers et personnalisés sur votre profil. De même, vous pouvez choisir et enregistrer n’importe quel symbole ou photo de profil charmant ou sympa. En conséquence, vous pouvez refaire votre profil comme vous le souhaitez."
+        },
+        {
+          "id": "t4",
+          "question": "Contrôle de la soirée de surveillance",
+          "answer": "Dans l'extension Hotstar Party, vous avez un certain contrôle sur votre soirée de surveillance et suivez sa protection. De plus, en tant qu'hôte, vous pouvez bénéficier de l'admission générale à la soirée de surveillance en tournant le bouton « J'AI CONTRÔLE » en vert. De cette façon, vous pourrez ajouter et éliminer des individus. De plus, vous lisez, arrêtez, rembobinez et transférez le contenu en streaming."
+        },
+        {
+          "id": "t5",
+          "question": "Synchronisation et streaming haute résolution",
+          "answer": "Hotstar Watch Party Extension est une extension progressive qui améliore votre expérience de streaming. En outre, il s’efforce d’offrir la meilleure expérience possible en matière d’observation d’un marathon. De cette manière, il offre des objectifs de streaming de qualité supérieure. De plus, vous pouvez profiter du contenu avec vos proches en le diffusant de manière synchronisée."
+        },
+        {
+          "id": "t6",
+          "question": "Utilisation gratuite",
+          "answer": "Hotstar Party est une extension gratuite à accéder et à utiliser afin que vous puissiez disposer de toutes ces fonctionnalités et divertissements. A partir de ce moment, vous pouvez accéder gratuitement à ce divertissement."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "CARACTÉRISTIQUES UNIQUES",
+    "uniquefeaturebelow": "L'extension Hotstar Party est spécialement conçue pour tous les fans de Hotstar. Qu’il s’agisse d’émissions, de films ou même de sports en direct, vous pourrez profiter de la soirée en toute transparence. De plus, il possède de merveilleuses fonctionnalités pour améliorer votre expérience et vous mettre à l’aise. Passons aux fonctionnalités.",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "À quoi sert l’extension Hotstar Party ?",
+        "answer": "Tous les abonnés Hotstar peuvent utiliser l'extension, un outil gratuit, pour visionner n'importe quelle émission, film ou vidéo en synchronisation avec ceux qui vivent ailleurs. Ils peuvent également envoyer des SMS et s’envoyer des emojis tout en regardant ensemble leurs émissions préférées. L’extension peut être installée n’importe où dans le monde et, mieux encore, elle est entièrement gratuite."
+      },
+      {
+        "id": "f2",
+        "question": "Comment puis-je télécharger et installer l’extension Hotstar Party ?",
+        "answer": "Pour obtenir de l’aide pour installer l’extension, veuillez cliquer ici. Vous devez choisir le bouton bleu \"Ajouter à Chrome\" sur la page d'installation officielle de l'extension après avoir cliqué sur ce lien. De plus, vous serez invité à donner votre autorisation avant que l'extension puisse être ajoutée à votre navigateur. Pour ce faire, cliquez sur le bouton \"Ajouter une extension\". L'extension va maintenant être configurée sur votre ordinateur."
+      },
+      {
+        "id": "f3",
+        "question": "Combien d’invités sont autorisés à une Watch Party ?",
+        "answer": "Une session Watch Party peut accueillir jusqu’à 100 participants. D'un autre côté, chaque participant à la fête a besoin de son propre abonnement Hotstar pour participer à la soirée de surveillance virtuelle."
+      },
+      {
+        "id": "f4",
+        "question": "Comment participer à une soirée montre ?",
+        "answer": "Vous pouvez rejoindre une soirée de surveillance en utilisant le lien que votre ami ou l'hôte de la partie de montre a partagé avec vous. De plus, si vous ne l'avez pas déjà fait, vous devez télécharger l'extension watch party après avoir cliqué sur le lien."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Obtenez-le, c'est gratuit !",
+    "anyQuestions": "Je suis prêt, offre-moi une fête Hotstar",
+    "blog": "Blog",
+    "popularSearches": "Recherches populaires",
+    "disclaimer": "Clause de non-responsabilité",
+    "disclaimerContent": "Hotstar est une marque commerciale de Star India, Disney Media et Entertainment. Ce site Web",
+    "footerTags": [
+      "Fête Hotstar",
+      "Soirée de surveillance Hotstar",
+      "Extension Chrome Hotstar Party",
+      "Extension de soirée de surveillance Hotstar"
+    ]
+  }
+}

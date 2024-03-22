@@ -1,0 +1,118 @@
+{
+  "header": {
+    "installBtn": { "addTo": "Tilføj til", "free": "Det er gratis" },
+    "navBarHeading": "er nu tilgængelig på Google Chrome, Microsoft Edge og Mozilla Firefox"
+  },
+  "section": {
+    "first": {
+      "heading": "SLÅ DET MEST OUTLANDSKE VIRTUELLE RENDEZVOS VIA HOTSTAR PARTY",
+      "html": "Hotstar Party er en fængslende funktion på Disney Plus-platformen, der giver brugerne mulighed for at se deres yndlingsserier, film, serier og animerede videoer med venner, uanset deres fjerntliggende placering. Brugere skal downloade Hotstar Party Chrome-udvidelsen på deres kompatible enheder for at få adgang til denne spændende funktion. Det inkluderer Windows, macOS eller Chromebook ved hjælp af en kompatibel webbrowser. Plus, en kompatibel webbrowser såsom Google Chrome eller Microsoft Edge. Med <a href=\"/\"><b><u>Hotstar Party</u></b></a> kan brugere oprette og deltage i se-fester. Og endda invitere deres venner",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "HVORDAN VÆRTER MAN EN HOTSTAR-FEST?",
+      "subHeading": "Er du en Hotstar-fanatiker, der elsker at binge-se Hotstar-shows og -film? Så er Hotstar-festen afgørende for dig uden omkostninger overhovedet. Derfor kan du se problemfrit synkroniseret med enhver af dine venner rundt om i verden. Det er nemt at være vært for en urfest, hvis du følger disse enkle trin.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Hvordan downloades og installeres Hotstar Party-udvidelsen?",
+          "answer": "Det tager kun et par minutter, og processen er ligetil at downloade Hotstar Party-udvidelsen. Du skal blot følge disse instruktioner nøjagtigt.",
+          "p1": "Søg efter Hotstar Party-udvidelsen der ved at gå til den officielle Chrome Webshop. Du kan også klikke her for at downloade udvidelsen.",
+          "p2": "Bemærk: Du kan også bruge Microsoft Edge-browseren til at downloade udvidelsen. Derudover er Hotstar Party-udvidelsen kompatibel med Windows-, macOS- og Chromebook-enheder.",
+          "p3": "Klik derefter på knappen \"TILFØJ TIL CHROME\".",
+          "p4": "En kort pop-up vises nu og beder dig bekræfte din beslutning om at installere udvidelsen. Derfor skal du klikke på knappen \"TILFØJ UDVIDELSE\" for at fortsætte.",
+          "p5": "Derudover skal udvidelsen fastgøres til værktøjslinjen. Hvis udvidelsesikonet ikke er synligt der, kan du også opdage det ved at klikke på puslespilikonet i øverste højre hjørne af din browser. De nemme trin til at installere Hotstar Watch Party-udvidelsen var disse. Så hvis du nøje følger dem, vil du være i stand til at downloade udvidelsen og synkronisere dine urfester med alle andre på planeten. Du skal stadig også forstå, hvordan du bruger udvidelsen. For at lære, hvordan du bruger denne udvidelse, skal du læse videre."
+        },
+        {
+          "id": "2",
+          "question": "Hvordan forankrer man en Hotstar Watch Party ved hjælp af udvidelsen?",
+          "answer": "Nu hvor du har tilføjet udvidelsen til din enhed, lad os fortsætte processen yderligere. Bliv den bedste vært for onlinefester ved at følge instruktionerne nedenfor. Så hav din drik og popcorn klar.",
+          "p1": "Installation og fastgørelse af Hotstar-festudvidelsen er det første skridt.",
+          "p2": "Derudover skal du få adgang til Hotstar-streamingplatformen og logge på med din abonnerede konto. Sørg for, at du er logget ind på din egen konto.",
+          "p3": "Find en video på Hotstar, som du vil se til din urfest nu. Du kan også søge efter videoen, før du afspiller den.",
+          "p4": "Klik derefter på det udvidelsesikon, du allerede har fastgjort. Her vil der dukke et vindue op, hvor der står \"START EN PARTY\" og knappen \"OPRET EN SE PARTY.\" For at oprette et invitationslink skal du klikke på den knap.",
+          "p5": "Det eneste, der er tilbage at gøre, er at invitere dine venner til dit livs fest ved at dele URL-adressen til urfesten med dem. Del derfor invitationslinket til urfesten med dine kære.",
+          "p6": "Til sidst skal du trykke på invitationens URL for at deltage i galskaben."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Stand Apart-funktioner på Hotstar Party",
+      "subHeading": "Hotstar Party Extension har adskillige fremragende funktioner, der gør det til en fænomenal udvidelse at bruge. Følgende er alle de anførte egenskaber, der ville få dig til at skynde dig med at downloade udvidelsen med det samme.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Tilgængelig i hele verden",
+          "answer": "Hotstar Watch Party-udvidelsen er tilgængelig over hele verden for alle at bruge. Derfor kan du bruge det overalt på planeten. Sørg dog for, at Hotstar-streamingtjenesten er tilgængelig i din region og dit land. På denne måde kan du bruge en robust VPN til at ændre dit område og aktivere en Hotstar i sådanne tilfælde. Og så vil du være i stand til at forbinde med dine venner og familie over en virtuel filmaften."
+        },
+        {
+          "id": "t2",
+          "question": "Live Chat",
+          "answer": "Dine urfestkammerater kan dele gensidige smil og reaktioner på en igangværende scene. Derfor gør denne fantastiske funktion ved gruppeuret dig i stand til at opretholde en samtale mellem festgæsterne. Det faktum, at du sidder ved siden af ​​hinanden i det samme område, giver dig desuden komfort. Yderligere kan du reagere på festgæster ved at sende dem humørikoner."
+        },
+        {
+          "id": "t3",
+          "question": "Tilpas din urfest",
+          "answer": "En af de mest ekstraordinære dele af Hotstar Party er, at den giver dig mulighed for at personliggøre din profil. Fra nu af kan du beholde ejendommelige og tilpassede monikere på din profil. Ligeledes kan du vælge og gemme et hvilket som helst charmerende eller cool symbol eller profilbillede. Derfor kan du lave din profil om, som du foretrækker."
+        },
+        {
+          "id": "t4",
+          "question": "Kontrol af Watch Party",
+          "answer": "I Hotstar Party-udvidelsen har du en vis kontrol over din urfest og holder trit med dens beskyttelse. Ydermere kan du som vært tage den generelle adgang til urfesten ved at dreje knappen \"JEG HAR KONTROL\" grøn. På denne måde får du tilføjet og elimineret enkeltpersoner. Derudover kan du afspille, stoppe, spole tilbage og videresende streamingindholdet."
+        },
+        {
+          "id": "t5",
+          "question": "Synkronisering og streaming i høj opløsning",
+          "answer": "Hotstar Watch Party Extension er en progressiv udvidelse, der forbedrer din streamingoplevelse. Desuden bestræber den sig på at give den bedst mulige maratonoplevelse. På denne måde giver det streamingmål af høj kvalitet. Desuden kan du nyde indholdet med dine kære ved at streame det synkroniseret."
+        },
+        {
+          "id": "t6",
+          "question": "Gratis at bruge",
+          "answer": "Hotstar Party er en gratis udvidelse til at få adgang til og bruge, så du kan have alle disse funktioner og underholdning til din rådighed. Fra dette tidspunkt kan du få adgang til denne forlystelse gratis."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "UNIKE FUNKTIONER",
+    "uniquefeaturebelow": "Hotstar-festudvidelsen er specielt kurateret til alle Hotstar-fans. Uanset om det er shows, film eller endda live sport, vil du være i stand til at nyde urfesten problemfrit. Desuden har den nogle vidunderlige funktioner til at forbedre din oplevelse og bringe dig til at lette. Lad os bryde ind i funktionerne.",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Hvilket formål tjener Hotstar Party-udvidelsen?",
+        "answer": "Alle Hotstar-abonnenter kan bruge udvidelsen, et gratis værktøj, til at se ethvert show, film eller video synkroniseret med dem, der bor andre steder. De kan også sms'e og sende emojis til hinanden, mens de ser deres yndlingsprogrammer sammen. Udvidelsen kan installeres overalt i verden og er, bedst af alt, helt gratis."
+      },
+      {
+        "id": "f2",
+        "question": "Hvordan kan jeg downloade og installere Hotstar Party-udvidelsen?",
+        "answer": "Klik her for at få hjælp til at installere udvidelsen. Du skal vælge den blå \"Tilføj til Chrome\"-knap på den officielle installationsside for udvidelsen efter at have klikket på dette link. Derudover vil du blive bedt om at give tilladelse, før udvidelsen kan føjes til din browser. For at gøre dette skal du klikke på knappen \"Tilføj udvidelse\". Udvidelsen vil nu blive sat op på din computer."
+      },
+      {
+        "id": "f3",
+        "question": "Hvor mange gæster er tilladt til en Watch Party?",
+        "answer": "Én Watch Party-session kan rumme op til 100 deltagere. På den anden side har hver partideltager brug for deres eget Hotstar-medlemskab for at deltage i den virtuelle urfest."
+      },
+      {
+        "id": "f4",
+        "question": "Hvordan deltager jeg i en urfest?",
+        "answer": "Du kan deltage i en urfest ved at bruge linket, som din ven eller se-vært har delt med dig. Derudover, hvis du ikke allerede har gjort det, skal du downloade watch party-udvidelsen efter at have klikket på linket."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Få det, det er gratis!",
+    "anyQuestions": "Jeg er klar, Giv mig Hotstar Party",
+    "blog": "Blog",
+    "popularSearches": "Populære søgninger",
+    "disclaimer": "Ansvarsfraskrivelse",
+    "disclaimerContent": "Hotstar er et varemærke tilhørende Star India, Disney Media og Entertainment. Denne hjemmeside",
+    "footerTags": [
+      "Hotstar Party Party",
+      "Hotstar Watch Party",
+      "Hotstar Party Chrome-udvidelse",
+      "Hotstar Watch Party Extension"
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "header": {
+    "installBtn": { "addTo": "A ekle", "free": "Ücretsiz" },
+    "navBarHeading": "artık Google Chrome, Microsoft Edge ve Mozilla Firefox'ta mevcut"
+  },
+  "section": {
+    "first": {
+      "heading": "HOTSTAR PARTY İLE EN TUHAF SANAL RANDEVU'YU AYARLAYIN",
+      "html": "Hotstar Party, Disney Plus platformunda kullanıcıların en sevdikleri programları, filmleri, dizileri ve animasyon videolarını uzaktaki konumlarına bakılmaksızın arkadaşlarıyla izlemelerine olanak tanıyan büyüleyici bir özelliktir. Kullanıcıların bu heyecan verici özelliğe erişebilmeleri için Hotstar Party Chrome uzantısını uyumlu cihazlarına indirmeleri gerekiyor. Uyumlu bir web tarayıcısı kullanan Windows, macOS veya Chromebook'u içerir. Ayrıca Google Chrome veya Microsoft Edge gibi uyumlu bir web tarayıcısı. <a href=\"/\"><b><u>Hotstar Party</u></b></a> ile kullanıcılar izleme partileri oluşturabilir ve bunlara katılabilir. Hatta arkadaşlarını bile davet et",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197313207-sync-disney-plus.mp4"
+    },
+    "second": {
+      "heading": "HOTSTAR PARTİSİ NASIL EV SAHİPLİĞİ YAPILIR?",
+      "subHeading": "Hotstar şovlarını ve filmlerini art arda izlemeyi seven bir Hotstar fanatiği misiniz? O halde Hotstar Partisi sizin için hiçbir ücret ödemeden hayati öneme sahiptir. Bu nedenle, dünyanın her yerindeki arkadaşlarınızla kesintisiz ve senkronize bir şekilde izleyebilirsiniz. Bu basit adımları izlerseniz bir izleme partisine ev sahipliği yapmak zahmetsizdir.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1645708727258-how-to-use-disney-plus-watch-party-final.mp4.mp4",
+      "accordian": [
+        {
+          "id": "1",
+          "question": "Hotstar Party Uzantısı Nasıl İndirilir ve Kurulur?",
+          "answer": "Yalnızca birkaç dakika sürer ve Hotstar Party uzantısını indirme işlemi basittir. Bu talimatları tam olarak uygulamanız yeterlidir.",
+          "p1": "Resmi Chrome Web Mağazası'na giderek burada Hotstar Party uzantısını arayın. Uzantıyı indirmek için buraya da tıklayabilirsiniz.",
+          "p2": "Not: Uzantıyı indirmek için Microsoft Edge tarayıcısını da kullanabilirsiniz. Ayrıca Hotstar Party Uzantısı Windows, macOS ve Chromebook cihazlarıyla uyumludur.",
+          "p3": "Bundan sonra \"CHROME'A EKLE\" düğmesini tıklayın.",
+          "p4": "Şimdi kısa bir açılır pencere görünecek ve sizden uzantıyı yükleme kararınızı onaylamanızı isteyecek. Bu nedenle devam edebilmek için \"UZANTI EKLE\" butonuna tıklamanız gerekmektedir.",
+          "p5": "Ayrıca uzantının araç çubuğuna sabitlenmesi gerekir. Uzantı simgesi burada görünmüyorsa tarayıcınızın sağ üst köşesindeki bulmaca simgesini tıklayarak da keşfedebilirsiniz. Hotstar Watch Party uzantısını kurmanın kolay adımları şunlardı. Dolayısıyla, bunları dikkatli bir şekilde takip ederseniz, uzantıyı indirebilir ve izleme partilerinizi gezegendeki herkesle senkronize edebilirsiniz. Uzantının nasıl kullanılacağını da anlamanız gerekiyor. Bu uzantıyı nasıl kullanacağınızı öğrenmek için okumaya devam edin."
+        },
+        {
+          "id": "2",
+          "question": "Uzantıyı kullanarak Hotstar İzleme Partisini Nasıl Düzenleyebilirim?",
+          "answer": "Artık uzantıyı cihazınıza eklediğinize göre işleme devam edelim. Aşağıda listelenen talimatları izleyerek en iyi çevrimiçi parti sunucusu olun. O halde içeceğinizi ve patlamış mısırınızı hazırlayın.",
+          "p1": "Hotstar parti uzantısını yüklemek ve sabitlemek ilk adımdır.",
+          "p2": "Ayrıca Hotstar yayın platformuna erişmeli ve abone olduğunuz hesabınızla giriş yapmalısınız. Kendi hesabınızda oturum açtığınızdan emin olun.",
+          "p3": "Şimdi izleme partinizde izlemek istediğiniz videoyu Hotstar'da bulun. Ayrıca videoyu oynatmadan önce arayabilirsiniz.",
+          "p4": "Bundan sonra, önceden sabitlediğiniz uzantı simgesine tıklayın. Burada \"PARTİ BAŞLAT\" yazan bir pencere ve \"BİR İZLEME PARTİSİ OLUŞTUR\" düğmesi açılacaktır. Davet linki oluşturmak için o butona tıklamanız gerekmektedir.",
+          "p5": "Geriye kalan tek şey, izleme partisinin URL'sini onlarla paylaşarak arkadaşlarınızı ömür boyu sürecek bir partiye davet etmektir. Böylece parti izle davet bağlantısını sevdiklerinizle paylaşın.",
+          "p6": "Son olarak çılgınlığa katılmak için davet URL'sine dokunun."
+        }
+      ]
+    },
+    "three": {
+      "heading": "Hotstar Party'de Ayırıcı Özellikler",
+      "subHeading": "Hotstar Party Extension, onu kullanımı olağanüstü bir eklenti haline getiren çok sayıda olağanüstü özelliğe sahiptir. Uzantıyı anında indirmek için acele etmenizi sağlayacak listelenen tüm özellikler aşağıdadır.",
+      "video": "https://super-dashboard-images-cdn.s3.amazonaws.com/videos/1646197414484-disney-plus-watch-party-avtar.mp4",
+      "accordian": [
+        {
+          "id": "t1",
+          "question": "Dünya Çapında Erişilebilir",
+          "answer": "Hotstar Watch Party uzantısına dünya çapında herkesin erişimi mevcuttur. Buna göre gezegenin herhangi bir yerinde kullanabilirsiniz. Ancak Hotstar yayın hizmetinin bölgenizde ve ülkenizde mevcut olduğundan emin olun. Bu şekilde güçlü bir VPN kullanarak bölgenizi değiştirebilir ve bu gibi durumlarda Hotstar'ı etkinleştirebilirsiniz. Daha sonra sanal bir film gecesi aracılığıyla arkadaşlarınız ve ailenizle bağlantı kurabileceksiniz."
+        },
+        {
+          "id": "t2",
+          "question": "Canlı sohbet",
+          "answer": "İzleme partisi arkadaşlarınız devam eden bir sahnede karşılıklı gülümsemeleri ve tepkileri paylaşabilir. Dolayısıyla grup saatinin bu muhteşem özelliği, parti konukları arasındaki sohbeti sürdürmenizi sağlar. Ayrıca yan yana aynı bölgede oturmanız da size rahatlık sağlıyor. Ayrıca parti misafirlerine ifadeler göndererek yanıt verebilirsiniz."
+        },
+        {
+          "id": "t3",
+          "question": "İzleme Partinizi Kişiselleştirin",
+          "answer": "Hotstar Party'nin en sıra dışı yönlerinden biri, profilinizi kişiselleştirmenize izin vermesidir. Bu andan itibaren profilinizde tuhaf ve özelleştirilmiş takma adlar tutabilirsiniz. Aynı şekilde, herhangi bir çekici veya havalı sembolü veya profil resmini seçip kaydedebilirsiniz. Buna göre profilinizi tercih ettiğiniz gibi yeniden yapabilirsiniz."
+        },
+        {
+          "id": "t4",
+          "question": "Nöbet Partisinin Kontrolü",
+          "answer": "Hotstar Party uzantısında, izleme partiniz üzerinde bir miktar kontrole sahip olursunuz ve onun korumasına ayak uydurursunuz. Ayrıca ev sahibi olarak \"KONTROL BENDE\" butonunu yeşile çevirerek nöbet partisine genel kabulü alabilirsiniz. Bu şekilde bireyleri ekleyip ortadan kaldıracaksınız. Ayrıca akış içeriğini oynatabilir, durdurabilir, geri sarabilir ve iletebilirsiniz."
+        },
+        {
+          "id": "t5",
+          "question": "Senkronizasyon ve Yüksek Çözünürlüklü Yayın",
+          "answer": "Hotstar Watch Party Uzantısı, yayın deneyiminizi geliştiren ilerici bir uzantıdır. Ayrıca mümkün olan en iyi maraton izleme deneyimini sunmaya çalışmaktadır. Bu şekilde üstün kalitede yayın hedefleri sağlar. Üstelik içeriği senkronize olarak yayınlayarak sevdiklerinizle birlikte keyfini çıkarabilirsiniz."
+        },
+        {
+          "id": "t6",
+          "question": "Kullanımı Ücretsiz",
+          "answer": "Hotstar Party, tüm bu özelliklere ve eğlenceye sahip olabilmeniz için erişilmesi ve kullanılması ücretsiz bir uzantıdır. Bu noktadan itibaren bu eğlenceye ücretsiz olarak erişebilirsiniz."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "heading": "BENZERSİZ ÖZELLİKLER",
+    "uniquefeaturebelow": "Hotstar parti uzantısı, tüm Hotstar hayranları için özel olarak seçilmiştir. İster programlar, ister filmler, hatta canlı spor müsabakaları olsun, izleme partisinin keyfini sorunsuz bir şekilde çıkarabileceksiniz. Dahası, deneyiminizi geliştirecek ve sizi rahatlatacak bazı harika özelliklere sahiptir. Özelliklere girelim.",
+    "accordian": [
+      {
+        "id": "f1",
+        "question": "Hotstar Parti Uzantısı hangi amaca hizmet ediyor?",
+        "answer": "Tüm Hotstar aboneleri, herhangi bir şovu, filmi veya videoyu başka yerde yaşayanlarla senkronize olarak görüntülemek için ücretsiz bir araç olan uzantıyı kullanabilir. Ayrıca en sevdikleri programları birlikte izlerken birbirlerine mesaj gönderip emoji gönderebiliyorlar. Uzantı dünyanın herhangi bir yerine kurulabilir ve en iyisi tamamen ücretsizdir."
+      },
+      {
+        "id": "f2",
+        "question": "Hotstar Party uzantısını nasıl indirip yükleyebilirim?",
+        "answer": "Uzantıyı yükleme konusunda yardım için lütfen burayı tıklayın. Bu bağlantıya tıkladıktan sonra uzantının resmi kurulum sayfasındaki mavi renkli \"Chrome'a ​​Ekle\" butonunu seçmelisiniz. Ayrıca, uzantının tarayıcınıza eklenmeden önce izin vermeniz istenecektir. Bunu yapmak için \"Uzantı Ekle\" düğmesini tıklayın. Uzantı şimdi bilgisayarınıza kurulacak."
+      },
+      {
+        "id": "f3",
+        "question": "Bir Seyir Partisine kaç misafirin katılmasına izin verilir?",
+        "answer": "Bir Seyir Partisi oturumunda 100'e kadar katılımcı yer alabilir. Öte yandan sanal izleme partisine katılabilmek için her parti katılımcısının kendi Hotstar üyeliğine ihtiyacı var."
+      },
+      {
+        "id": "f4",
+        "question": "Bir izleme partisine nasıl katılabilirim?",
+        "answer": "Arkadaşınızın veya izleme bölümü sunucusunun sizinle paylaştığı bağlantıyı kullanarak bir izleme partisine katılabilirsiniz. Ayrıca henüz yapmadıysanız linke tıkladıktan sonra watch party uzantısını da indirmelisiniz."
+      }
+    ]
+  },
+  "footer": {
+    "letUsKnow": "Alın, Ücretsiz!",
+    "anyQuestions": "Hazırım, bana Hotstar Partisi ver",
+    "blog": "Blog",
+    "popularSearches": "popüler aramalar",
+    "disclaimer": "Sorumluluk reddi beyanı",
+    "disclaimerContent": "Hotstar, Star India, Disney Media ve Entertainment'ın ticari markasıdır. Bu web sitesi",
+    "footerTags": [
+      "Hotstar Parti Partisi",
+      "Hotstar İzleme Partisi",
+      "Hotstar Party Chrome Uzantısı",
+      "Hotstar İzleme Partisi Uzantısı"
+    ]
+  }
+}
