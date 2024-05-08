@@ -21,6 +21,19 @@ function Footer({ installBtn, footer = {} }) {
     )
   }
 
+  const pages = [
+    {
+      id: 1,
+      label: "Privacy Policy",
+      href: "/privacy-policy"
+    },
+    {
+      id: 2,
+      label: "Terms-of-Use",
+      href: "/terms-of-use"
+    }
+  ]
+
   return (
     <div className="footer-container mt-[20%] w-screen md:mt-[10%]">
       <div className="footer-box -mt-14 border-t-2 border-white"></div>
@@ -107,6 +120,12 @@ function Footer({ installBtn, footer = {} }) {
             <span className="mr-1 text-white">:</span>
             <p className="text-base text-white">{footer.disclaimerContent}</p>
           </span>
+        </div>
+        <hr />
+        <div className='text-white flex justify-center items-center gap-6 mt-2 -mb-1'>
+          {pages.map((item, index) => (
+            <Link href={item.href} key={index}>{item.label}</Link>
+          ))}
         </div>
       </div>
     </div>
