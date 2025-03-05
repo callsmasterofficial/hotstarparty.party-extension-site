@@ -1,0 +1,15 @@
+version: '3.7'
+services:
+  hotstarparty_party:
+    image: hotstarparty_party:latest
+    container_name: hotstarparty_party
+    restart: always
+    ports:
+      - "8084:3000"
+    environment:
+      - NODE_ENV=production
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "5m"  # Limit each log file to 5 megabytes
+        max-file: "2"    # Keep a maximum of 2 log files

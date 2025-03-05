@@ -1,24 +1,73 @@
-name: Push-to-EC2
+name: Build and Deploy hotstarparty_party
 
-# Trigger deployment only on push to master branch
 on:
   push:
-    branches:
-      - main
+    branches: [ "main" ]  # or your preferred branch(es)
 
 jobs:
-  deploy:
-    name: Deploy to EC2 on master branch push
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout the files
-        uses: actions/checkout@v2
+      - name: Check out code
+        uses: actions/checkout@v3
 
-      - name: code upload
-        uses: easingthemes/ssh-deploy@main
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-          REMOTE_USER: ${{ secrets.REMOTE_USER }}
-          TARGET: /var/www/multiSite/hotstarparty.party
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Build Docker image
+        run: |
+          docker build -t hotstarparty_party:latest .
+
+      - name: Save Docker image as TAR
+        run: |
+          docker save hotstarparty_party:latest -o hotstarparty_party.tar
+
+      - name: Debug listing
+        run: |
+          ls -lh
+          file hotstarparty_party.tar
+          cat docker-compose.yml || true
+      - name: Bundle Docker image and compose file into one tar
+        run: |
+          tar -cvf deployment_bundle.tar hotstarparty_party.tar docker-compose.yml
+
+      - name: Copy bundle to EC2 via SCP
+        uses: appleboy/scp-action@v0.1.1
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          source: "deployment_bundle.tar"
+          target: "/home/ec2-user/hotstarparty_party"
+
+
+      - name: SSH to Deploy on EC2
+        uses: appleboy/ssh-action@v0.1.5
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          script: |
+            # 0) Go to the folder where we placed hotstarparty_party.tar + docker-compose.yml
+            cd /home/ec2-user/hotstarparty_party
+            
+            # 1) Extract the deployment bundle
+            tar -xvf deployment_bundle.tar
+
+            # 2) Load the Docker image from hotstarparty_party.tar
+            docker load -i hotstarparty_party.tar
+
+            # (Optional) Remove the archives now that they've been extracted/loaded
+            rm deployment_bundle.tar
+            rm hotstarparty_party.tar
+
+            # 3) Stop/remove old container if needed
+            docker-compose stop hotstarparty_party || true
+            docker-compose rm -f hotstarparty_party || true
+
+            # 4) Recreate the container
+            docker-compose up -d --force-recreate --no-deps hotstarparty_party
+
+            # 5) Cleanup old images
+            docker image prune -f || true
